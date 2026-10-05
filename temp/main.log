@@ -1,0 +1,2656 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.9.27)  5 OCT 2026 08:52
+entering extended mode
+ \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"c:/Users/lidal/OneDrive/0 - My Files/1 - Mastery/Dissertação/Notes of Framed Structures/Framed Structures/main.tex"
+(c:/Users/lidal/OneDrive/0 - My Files/1 - Mastery/Dissertação/Notes of Framed Structures/Framed Structures/main.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-03-20>
+(C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count275
+) (sty/elsevierbook.cls (sty/elsevierbook-p04.cls (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
+Document Class: book 2025/01/22 v1.4n Standard LaTeX document class
+(C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/base\bk10.clo
+File: bk10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count276
+\c@chapter=\count277
+\c@section=\count278
+\c@subsection=\count279
+\c@subsubsection=\count280
+\c@paragraph=\count281
+\c@subparagraph=\count282
+\c@figure=\count283
+\c@table=\count284
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen150
+) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2025/03/01 v4.3b Infix arithmetic (KKT,FJ)
+\calc@Acount=\count285
+\calc@Bcount=\count286
+\calc@Adimen=\dimen151
+\calc@Bdimen=\dimen152
+\calc@Askip=\skip51
+\calc@Bskip=\skip52
+LaTeX Info: Redefining \setlength on input line 86.
+LaTeX Info: Redefining \addtolength on input line 87.
+\calc@Ccount=\count287
+\calc@Cskip=\skip53
+) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/ncctools\afterpackage.sty
+Package: afterpackage 2006/01/17 v1.1 Apply Commands After Package (NCC)
+) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen153
+\Gin@req@width=\dimen154
+) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
+Package: colortbl 2024/10/29 v1.0k Color table columns (DPC)
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
+\col@sep=\dimen155
+\ar@mcellbox=\box53
+\extrarowheight=\dimen156
+\NC@list=\toks18
+\extratabsurround=\skip54
+\backup@length=\skip55
+\ar@cellbox=\box54
+)
+\everycr=\toks19
+\minrowclearance=\skip56
+\rownum=\count288
+) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/fmtcount\fmtcount.sty
+Package: fmtcount 2025/12/02 v3.12 Displaying the values of LaTeX counters (NT,VB,NE)
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks20
+\XKV@tempa@toks=\toks21
+)
+\XKV@depth=\count289
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/fmtcount\fcprefix.sty
+Package: fcprefix 2012/09/28
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/fmtcount\fcnumparser.sty
+Package: fcnumparser 2017/06/15
+\fc@digit@counter=\count290
+)) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks22
+\ex@=\dimen157
+)
+\c@padzeroesN=\count291
+\fc@tmpcatcode=\count292
+\@DT@modctr=\count293
+\@ordinalctr=\count294
+\@orgargctr=\count295
+\@strctr=\count296
+\@tmpstrctr=\count297
+\@DT@loopN=\count298
+\@DT@X=\count299
+) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
+\pgfutil@everybye=\toks23
+\pgfutil@tempdima=\dimen158
+\pgfutil@tempdimb=\dimen159
+) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
+\pgfutil@abb=\box55
+) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2025-08-29 v3.1.11a (3.1.11a)
+))
+Package: pgf 2025-08-29 v3.1.11a (3.1.11a)
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
+Package: pgfsys 2025-08-29 v3.1.11a (3.1.11a)
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks24
+\pgfkeys@temptoks=\toks25
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks26
+))
+\pgf@x=\dimen160
+\pgf@y=\dimen161
+\pgf@xa=\dimen162
+\pgf@ya=\dimen163
+\pgf@xb=\dimen164
+\pgf@yb=\dimen165
+\pgf@xc=\dimen166
+\pgf@yc=\dimen167
+\pgf@xd=\dimen168
+\pgf@yd=\dimen169
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count300
+\c@pgf@countb=\count301
+\c@pgf@countc=\count302
+\c@pgf@countd=\count303
+\t@pgf@toka=\toks27
+\t@pgf@tokb=\toks28
+\t@pgf@tokc=\toks29
+\pgf@sys@id@count=\count304
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
+File: pgf.cfg 2025-08-29 v3.1.11a (3.1.11a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2025-08-29 v3.1.11a (3.1.11a)
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2025-08-29 v3.1.11a (3.1.11a)
+))) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfsyssoftpath@smallbuffer@items=\count305
+\pgfsyssoftpath@bigbuffer@items=\count306
+) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
+Package: pgfcore 2025-08-29 v3.1.11a (3.1.11a)
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
+\pgfmath@dimen=\dimen170
+\pgfmath@count=\count307
+\pgfmath@box=\box56
+\pgfmath@toks=\toks30
+\pgfmath@stack@operand=\toks31
+\pgfmath@stack@operation=\toks32
+) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count308
+)) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.tex) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@picminx=\dimen171
+\pgf@picmaxx=\dimen172
+\pgf@picminy=\dimen173
+\pgf@picmaxy=\dimen174
+\pgf@pathminx=\dimen175
+\pgf@pathmaxx=\dimen176
+\pgf@pathminy=\dimen177
+\pgf@pathmaxy=\dimen178
+\pgf@xx=\dimen179
+\pgf@xy=\dimen180
+\pgf@yx=\dimen181
+\pgf@yy=\dimen182
+\pgf@zx=\dimen183
+\pgf@zy=\dimen184
+) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@path@lastx=\dimen185
+\pgf@path@lasty=\dimen186
+) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@shorten@end@additional=\dimen187
+\pgf@shorten@start@additional=\dimen188
+) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfpic=\box57
+\pgf@hbox=\box58
+\pgf@layerbox@main=\box59
+\pgf@picture@serial@count=\count309
+) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgflinewidth=\dimen189
+) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@pt@x=\dimen190
+\pgf@pt@y=\dimen191
+\pgf@pt@temp=\dimen192
+) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfarrowsep=\dimen193
+) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@max=\dimen194
+\pgf@sys@shading@range@num=\count310
+\pgf@shadingcount=\count311
+) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfexternal@startupbox=\box60
+) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfnodeparttextbox=\box61
+) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@nodesepstart=\dimen195
+\pgf@nodesepend=\dimen196
+) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2025-08-29 v3.1.11a (3.1.11a)
+)) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex)) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex)) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
+Package: pgffor 2025-08-29 v3.1.11a (3.1.11a)
+\pgffor@iter=\dimen197
+\pgffor@skip=\dimen198
+\pgffor@stack=\toks33
+\pgffor@toks=\toks34
+)) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
+Package: tikz 2025-08-29 v3.1.11a (3.1.11a)
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@plot@mark@count=\count312
+\pgfplotmarksize=\dimen199
+)
+\tikz@lastx=\dimen256
+\tikz@lasty=\dimen257
+\tikz@lastxsaved=\dimen258
+\tikz@lastysaved=\dimen259
+\tikz@lastmovetox=\dimen260
+\tikz@lastmovetoy=\dimen261
+\tikzleveldistance=\dimen262
+\tikzsiblingdistance=\dimen263
+\tikz@figbox=\box62
+\tikz@figbox@bg=\box63
+\tikz@tempbox=\box64
+\tikz@tempbox@bg=\box65
+\tikztreelevel=\count313
+\tikznumberofchildren=\count314
+\tikznumberofcurrentchild=\count315
+\tikz@fig@count=\count316
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfmatrixcurrentrow=\count317
+\pgfmatrixcurrentcolumn=\count318
+\pgf@matrix@numberofcolumns=\count319
+)
+\tikz@expandcount=\count320
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/textcase\textcase.sty
+Package: textcase 2025/02/16 v1.05 Text only upper/lower case changing (DPC)
+Package textcase Info: Defining Legacy names on input line 20.
+) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
+) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
+LaTeX Font Info:    Changing ? sub-encoding to TS1/0 on input line 75.
+) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/newtx\newtxtext.sty
+Package: newtxtext 2024/04/01 v1.744(Michael Sharpe) latex and unicode latex support for TeXGyreTermesX
+ `newtxtext' v1.744, 2024/04/01 Text macros taking advantage of TeXGyre Termes and its extensions (msharpe) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/xpatch\xpatch.sty (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2026-03-20 L3 programming layer (loader) 
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2026-02-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count321
+))
+Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
+Package: xparse 2025-10-09 L3 Experimental document command parser
+)) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/xstring\xstring.sty (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/xstring\xstring.tex
+\xs_counta=\count322
+\xs_countb=\count323
+)
+Package: xstring 2023/08/22 v1.86 String manipulations (CT)
+) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/carlisle\scalefnt.sty)
+LaTeX Font Info:    Setting ntxLF sub-encoding to TS1/0 on input line 24.
+LaTeX Font Info:    Setting ntxTLF sub-encoding to TS1/0 on input line 24.
+LaTeX Font Info:    Setting ntxOsF sub-encoding to TS1/0 on input line 24.
+LaTeX Font Info:    Setting ntxTOsF sub-encoding to TS1/0 on input line 24.
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/binhex\binhex.tex)
+\ntx@tmpcnta=\count324
+\ntx@cnt=\count325
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/fontaxes\fontaxes.sty
+Package: fontaxes 2026-01-02 v2.0.2 Font selection axes (deprecated)
+Applying: [2024-11-01] Use figureversions if present on input line 74.
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/figureversions\figureversions.sty
+Package: figureversions 2025-04-29 v1.0.1 Figure versions
+)
+Already applied: [0000-00-00] Fall back to v1 on input line 76.
+)
+\tx@sixem=\dimen264
+\tx@y=\dimen265
+\tx@x=\dimen266
+\tx@tmpdima=\dimen267
+\tx@tmpdimb=\dimen268
+\tx@tmpdimc=\dimen269
+\tx@tmpdimd=\dimen270
+\tx@tmpdime=\dimen271
+\tx@tmpdimf=\dimen272
+\tx@dimA=\dimen273
+\tx@dimAA=\dimen274
+\tx@dimB=\dimen275
+\tx@dimBB=\dimen276
+\tx@dimC=\dimen277
+LaTeX Info: Redefining \oldstylenums on input line 902.
+) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/fira\FiraSans.sty
+Package: FiraSans 2022/09/17 (Bob Tennent and autoinst) Style file for Fira Sans fonts.
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/inconsolata\zi4.sty
+Package: zi4 2019/05/17 v1.12
+ `inconsolata-zi4' v1.12, 2019/05/17 Text macros for Inconsolata (msharpe)
+\zifour@ocount=\count326
+) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/newtx\newtxmath.sty
+Package: newtxmath 2024/09/22 v1.754
+ `newtxmath' v1.754, 2024/09/22 Math macros based originally on txfonts (msharpe) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2025/07/09 v2.17z AMS math features
+\@mathmargin=\skip57
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2024/11/17 v2.01 AMS text
+) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen278
+) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count327
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count328
+\leftroot@=\count329
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count330
+\DOTSCASE@=\count331
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box66
+\strutbox@=\box67
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen279
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count332
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count333
+\dotsspace@=\muskip17
+\c@parentequation=\count334
+\dspbrk@lvl=\count335
+\tag@help=\toks35
+\row@=\count336
+\column@=\count337
+\maxfields@=\count338
+\andhelp@=\toks36
+\eqnshift@=\dimen280
+\alignsep@=\dimen281
+\tagshift@=\dimen282
+\tagwidth@=\dimen283
+\totwidth@=\dimen284
+\lineht@=\dimen285
+\@envbody=\toks37
+\multlinegap=\skip58
+\multlinetaggap=\skip59
+\mathdisplay@stack=\toks38
+LaTeX Info: Redefining \[ on input line 2950.
+LaTeX Info: Redefining \] on input line 2951.
+) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/oberdiek\centernot.sty
+Package: centernot 2016/05/16 v1.4 Centers the not symbol horizontally (HO)
+)
+\tx@cntz=\count339
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/binhex\binhex.tex)
+\tx@Isdigit=\count340
+\tx@IsAlNum=\count341
+\tx@tA=\toks39
+\tx@tB=\toks40
+\tx@su=\read3
+
+amsthm NOT loaded
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 402.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/minntx/m/n on input line 402.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/minntx/m/n on input line 402.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/minntx/m/n --> OT1/minntx/b/n on input line 403.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 410.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/FiraSans-LF/m/n on input line 410.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/FiraSans-LF/m/n on input line 410.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/FiraSans-LF/m/n --> OT1/FiraSans-LF/b/n on input line 412.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 419.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/minntx/m/it on input line 419.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/minntx/m/it on input line 419.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 420.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> T1/zi4/m/n on input line 420.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> T1/zi4/m/n on input line 420.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 422.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/minntx/b/n on input line 422.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/minntx/b/n on input line 422.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/minntx/m/it --> OT1/minntx/b/it on input line 423.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  T1/zi4/m/n --> T1/zi4/b/n on input line 426.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 534.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ntxmi/m/it on input line 534.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ntxmi/m/it on input line 534.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/ntxmi/m/it --> OML/ntxmi/b/it on input line 535.
+\symlettersA=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lettersA' in version `bold'
+(Font)                  U/ntxmia/m/it --> U/ntxmia/b/it on input line 582.
+Now handling font encoding LMS ...
+... no UTF-8 mapping file for font encoding LMS
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 604.
+LaTeX Font Info:    Encoding `OMS' has changed to `LMS' for symbol font
+(Font)              `symbols' in the math version `normal' on input line 604.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> LMS/ntxsy/m/n on input line 604.
+LaTeX Font Info:    Encoding `OMS' has changed to `LMS' for symbol font
+(Font)              `symbols' in the math version `bold' on input line 604.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> LMS/ntxsy/m/n on input line 604.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  LMS/ntxsy/m/n --> LMS/ntxsy/b/n on input line 605.
+\symAMSm=\mathgroup5
+LaTeX Font Info:    Overwriting symbol font `AMSm' in version `bold'
+(Font)                  U/ntxsym/m/n --> U/ntxsym/b/n on input line 630.
+\symsymbolsC=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `symbolsC' in version `bold'
+(Font)                  U/ntxsyc/m/n --> U/ntxsyc/b/n on input line 651.
+Now handling font encoding LMX ...
+... no UTF-8 mapping file for font encoding LMX
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 664.
+LaTeX Font Info:    Encoding `OMX' has changed to `LMX' for symbol font
+(Font)              `largesymbols' in the math version `normal' on input line 664.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 664.
+LaTeX Font Info:    Encoding `OMX' has changed to `LMX' for symbol font
+(Font)              `largesymbols' in the math version `bold' on input line 664.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 664.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  LMX/ntxexx/m/n --> LMX/ntxexx/b/n on input line 665.
+\symlargesymbolsTXA=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `largesymbolsTXA' in version `bold'
+(Font)                  U/ntxexa/m/n --> U/ntxexa/b/n on input line 679.
+\tx@sbptoks=\toks41
+LaTeX Font Info:    Redeclaring math delimiter \lfloor on input line 902.
+LaTeX Font Info:    Redeclaring math delimiter \rfloor on input line 903.
+LaTeX Font Info:    Redeclaring math delimiter \lceil on input line 904.
+LaTeX Font Info:    Redeclaring math delimiter \rceil on input line 905.
+LaTeX Font Info:    Redeclaring math delimiter \lbrace on input line 910.
+LaTeX Font Info:    Redeclaring math delimiter \rbrace on input line 911.
+LaTeX Font Info:    Redeclaring math delimiter \langle on input line 913.
+LaTeX Font Info:    Redeclaring math delimiter \rangle on input line 915.
+LaTeX Font Info:    Redeclaring math delimiter \arrowvert on input line 919.
+LaTeX Font Info:    Redeclaring math delimiter \vert on input line 920.
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 966.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 991.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 992.
+LaTeX Font Info:    Redeclaring math accent \vec on input line 2057.
+LaTeX Info: Redefining \Bbbk on input line 2847.
+LaTeX Info: Redefining \not on input line 2995.
+) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup8
+\symAMSb=\mathgroup9
+LaTeX Font Info:    Redeclaring math delimiter \ulcorner on input line 74.
+LaTeX Font Info:    Redeclaring math delimiter \urcorner on input line 75.
+LaTeX Font Info:    Redeclaring math delimiter \llcorner on input line 76.
+LaTeX Font Info:    Redeclaring math delimiter \lrcorner on input line 77.
+LaTeX Font Info:    Redeclaring math symbol \square on input line 141.
+LaTeX Font Info:    Redeclaring math symbol \lozenge on input line 142.
+)
+LaTeX Font Info:    Redeclaring math symbol \boxdot on input line 44.
+LaTeX Font Info:    Redeclaring math symbol \boxplus on input line 45.
+LaTeX Font Info:    Redeclaring math symbol \boxtimes on input line 46.
+LaTeX Font Info:    Redeclaring math symbol \blacksquare on input line 48.
+LaTeX Font Info:    Redeclaring math symbol \centerdot on input line 49.
+LaTeX Font Info:    Redeclaring math symbol \blacklozenge on input line 51.
+LaTeX Font Info:    Redeclaring math symbol \circlearrowright on input line 52.
+LaTeX Font Info:    Redeclaring math symbol \circlearrowleft on input line 53.
+LaTeX Font Info:    Redeclaring math symbol \leftrightharpoons on input line 56.
+LaTeX Font Info:    Redeclaring math symbol \boxminus on input line 57.
+LaTeX Font Info:    Redeclaring math symbol \Vdash on input line 58.
+LaTeX Font Info:    Redeclaring math symbol \Vvdash on input line 59.
+LaTeX Font Info:    Redeclaring math symbol \vDash on input line 60.
+LaTeX Font Info:    Redeclaring math symbol \twoheadrightarrow on input line 61.
+LaTeX Font Info:    Redeclaring math symbol \twoheadleftarrow on input line 62.
+LaTeX Font Info:    Redeclaring math symbol \leftleftarrows on input line 63.
+LaTeX Font Info:    Redeclaring math symbol \rightrightarrows on input line 64.
+LaTeX Font Info:    Redeclaring math symbol \upuparrows on input line 65.
+LaTeX Font Info:    Redeclaring math symbol \downdownarrows on input line 66.
+LaTeX Font Info:    Redeclaring math symbol \upharpoonright on input line 67.
+LaTeX Font Info:    Redeclaring math symbol \downharpoonright on input line 69.
+LaTeX Font Info:    Redeclaring math symbol \upharpoonleft on input line 70.
+LaTeX Font Info:    Redeclaring math symbol \downharpoonleft on input line 71.
+LaTeX Font Info:    Redeclaring math symbol \rightarrowtail on input line 72.
+LaTeX Font Info:    Redeclaring math symbol \leftarrowtail on input line 73.
+LaTeX Font Info:    Redeclaring math symbol \leftrightarrows on input line 74.
+LaTeX Font Info:    Redeclaring math symbol \rightleftarrows on input line 75.
+LaTeX Font Info:    Redeclaring math symbol \Lsh on input line 76.
+LaTeX Font Info:    Redeclaring math symbol \Rsh on input line 77.
+LaTeX Font Info:    Redeclaring math symbol \leftrightsquigarrow on input line 79.
+LaTeX Font Info:    Redeclaring math symbol \looparrowleft on input line 80.
+LaTeX Font Info:    Redeclaring math symbol \looparrowright on input line 81.
+LaTeX Font Info:    Redeclaring math symbol \circeq on input line 82.
+LaTeX Font Info:    Redeclaring math symbol \succsim on input line 83.
+LaTeX Font Info:    Redeclaring math symbol \gtrsim on input line 84.
+LaTeX Font Info:    Redeclaring math symbol \gtrapprox on input line 85.
+LaTeX Font Info:    Redeclaring math symbol \multimap on input line 86.
+LaTeX Font Info:    Redeclaring math symbol \therefore on input line 87.
+LaTeX Font Info:    Redeclaring math symbol \because on input line 88.
+LaTeX Font Info:    Redeclaring math symbol \doteqdot on input line 89.
+LaTeX Font Info:    Redeclaring math symbol \triangleq on input line 91.
+LaTeX Font Info:    Redeclaring math symbol \precsim on input line 92.
+LaTeX Font Info:    Redeclaring math symbol \lesssim on input line 93.
+LaTeX Font Info:    Redeclaring math symbol \lessapprox on input line 94.
+LaTeX Font Info:    Redeclaring math symbol \eqslantless on input line 95.
+LaTeX Font Info:    Redeclaring math symbol \eqslantgtr on input line 96.
+LaTeX Font Info:    Redeclaring math symbol \curlyeqprec on input line 97.
+LaTeX Font Info:    Redeclaring math symbol \curlyeqsucc on input line 98.
+LaTeX Font Info:    Redeclaring math symbol \preccurlyeq on input line 99.
+LaTeX Font Info:    Redeclaring math symbol \leqq on input line 100.
+LaTeX Font Info:    Redeclaring math symbol \leqslant on input line 101.
+LaTeX Font Info:    Redeclaring math symbol \lessgtr on input line 102.
+LaTeX Font Info:    Redeclaring math symbol \backprime on input line 103.
+LaTeX Font Info:    Redeclaring math symbol \risingdotseq on input line 104.
+LaTeX Font Info:    Redeclaring math symbol \fallingdotseq on input line 105.
+LaTeX Font Info:    Redeclaring math symbol \succcurlyeq on input line 106.
+LaTeX Font Info:    Redeclaring math symbol \geqq on input line 107.
+LaTeX Font Info:    Redeclaring math symbol \geqslant on input line 108.
+LaTeX Font Info:    Redeclaring math symbol \gtrless on input line 109.
+LaTeX Font Info:    Redeclaring math symbol \bigstar on input line 117.
+LaTeX Font Info:    Redeclaring math symbol \between on input line 118.
+LaTeX Font Info:    Redeclaring math symbol \blacktriangledown on input line 119.
+LaTeX Font Info:    Redeclaring math symbol \blacktriangleright on input line 120.
+LaTeX Font Info:    Redeclaring math symbol \blacktriangleleft on input line 121.
+LaTeX Font Info:    Redeclaring math symbol \vartriangle on input line 122.
+LaTeX Font Info:    Redeclaring math symbol \blacktriangle on input line 123.
+LaTeX Font Info:    Redeclaring math symbol \triangledown on input line 124.
+LaTeX Font Info:    Redeclaring math symbol \eqcirc on input line 125.
+LaTeX Font Info:    Redeclaring math symbol \lesseqgtr on input line 126.
+LaTeX Font Info:    Redeclaring math symbol \gtreqless on input line 127.
+LaTeX Font Info:    Redeclaring math symbol \lesseqqgtr on input line 128.
+LaTeX Font Info:    Redeclaring math symbol \gtreqqless on input line 129.
+LaTeX Font Info:    Redeclaring math symbol \Rrightarrow on input line 130.
+LaTeX Font Info:    Redeclaring math symbol \Lleftarrow on input line 131.
+LaTeX Font Info:    Redeclaring math symbol \veebar on input line 132.
+LaTeX Font Info:    Redeclaring math symbol \barwedge on input line 133.
+LaTeX Font Info:    Redeclaring math symbol \doublebarwedge on input line 134.
+LaTeX Font Info:    Redeclaring math symbol \measuredangle on input line 137.
+LaTeX Font Info:    Redeclaring math symbol \sphericalangle on input line 138.
+LaTeX Font Info:    Redeclaring math symbol \varpropto on input line 139.
+LaTeX Font Info:    Redeclaring math symbol \smallsmile on input line 140.
+LaTeX Font Info:    Redeclaring math symbol \smallfrown on input line 141.
+LaTeX Font Info:    Redeclaring math symbol \Subset on input line 142.
+LaTeX Font Info:    Redeclaring math symbol \Supset on input line 143.
+LaTeX Font Info:    Redeclaring math symbol \Cup on input line 144.
+LaTeX Font Info:    Redeclaring math symbol \Cap on input line 146.
+LaTeX Font Info:    Redeclaring math symbol \curlywedge on input line 148.
+LaTeX Font Info:    Redeclaring math symbol \curlyvee on input line 149.
+LaTeX Font Info:    Redeclaring math symbol \leftthreetimes on input line 150.
+LaTeX Font Info:    Redeclaring math symbol \rightthreetimes on input line 151.
+LaTeX Font Info:    Redeclaring math symbol \subseteqq on input line 152.
+LaTeX Font Info:    Redeclaring math symbol \supseteqq on input line 153.
+LaTeX Font Info:    Redeclaring math symbol \bumpeq on input line 154.
+LaTeX Font Info:    Redeclaring math symbol \Bumpeq on input line 155.
+LaTeX Font Info:    Redeclaring math symbol \lll on input line 156.
+LaTeX Font Info:    Redeclaring math symbol \ggg on input line 158.
+LaTeX Font Info:    Redeclaring math symbol \circledS on input line 160.
+LaTeX Font Info:    Redeclaring math symbol \pitchfork on input line 161.
+LaTeX Font Info:    Redeclaring math symbol \dotplus on input line 162.
+LaTeX Font Info:    Redeclaring math symbol \backsim on input line 163.
+LaTeX Font Info:    Redeclaring math symbol \backsimeq on input line 164.
+LaTeX Font Info:    Redeclaring math symbol \complement on input line 165.
+LaTeX Font Info:    Redeclaring math symbol \intercal on input line 166.
+LaTeX Font Info:    Redeclaring math symbol \circledcirc on input line 167.
+LaTeX Font Info:    Redeclaring math symbol \circledast on input line 168.
+LaTeX Font Info:    Redeclaring math symbol \circleddash on input line 169.
+LaTeX Font Info:    Redeclaring math symbol \lvertneqq on input line 171.
+LaTeX Font Info:    Redeclaring math symbol \gvertneqq on input line 172.
+LaTeX Font Info:    Redeclaring math symbol \nleq on input line 173.
+LaTeX Font Info:    Redeclaring math symbol \ngeq on input line 174.
+LaTeX Font Info:    Redeclaring math symbol \nless on input line 175.
+LaTeX Font Info:    Redeclaring math symbol \ngtr on input line 176.
+LaTeX Font Info:    Redeclaring math symbol \nprec on input line 177.
+LaTeX Font Info:    Redeclaring math symbol \nsucc on input line 178.
+LaTeX Font Info:    Redeclaring math symbol \lneqq on input line 179.
+LaTeX Font Info:    Redeclaring math symbol \gneqq on input line 180.
+LaTeX Font Info:    Redeclaring math symbol \nleqslant on input line 181.
+LaTeX Font Info:    Redeclaring math symbol \ngeqslant on input line 182.
+LaTeX Font Info:    Redeclaring math symbol \lneq on input line 183.
+LaTeX Font Info:    Redeclaring math symbol \gneq on input line 184.
+LaTeX Font Info:    Redeclaring math symbol \npreceq on input line 185.
+LaTeX Font Info:    Redeclaring math symbol \nsucceq on input line 186.
+LaTeX Font Info:    Redeclaring math symbol \precnsim on input line 187.
+LaTeX Font Info:    Redeclaring math symbol \succnsim on input line 188.
+LaTeX Font Info:    Redeclaring math symbol \lnsim on input line 189.
+LaTeX Font Info:    Redeclaring math symbol \gnsim on input line 190.
+LaTeX Font Info:    Redeclaring math symbol \nleqq on input line 191.
+LaTeX Font Info:    Redeclaring math symbol \ngeqq on input line 192.
+LaTeX Font Info:    Redeclaring math symbol \precneqq on input line 193.
+LaTeX Font Info:    Redeclaring math symbol \succneqq on input line 194.
+LaTeX Font Info:    Redeclaring math symbol \precnapprox on input line 195.
+LaTeX Font Info:    Redeclaring math symbol \succnapprox on input line 196.
+LaTeX Font Info:    Redeclaring math symbol \lnapprox on input line 197.
+LaTeX Font Info:    Redeclaring math symbol \gnapprox on input line 198.
+LaTeX Font Info:    Redeclaring math symbol \nsim on input line 199.
+LaTeX Font Info:    Redeclaring math symbol \ncong on input line 200.
+LaTeX Font Info:    Redeclaring math symbol \diagup on input line 201.
+LaTeX Font Info:    Redeclaring math symbol \diagdown on input line 202.
+LaTeX Font Info:    Redeclaring math symbol \varsubsetneq on input line 203.
+LaTeX Font Info:    Redeclaring math symbol \varsupsetneq on input line 204.
+LaTeX Font Info:    Redeclaring math symbol \nsubseteqq on input line 205.
+LaTeX Font Info:    Redeclaring math symbol \nsupseteqq on input line 206.
+LaTeX Font Info:    Redeclaring math symbol \subsetneqq on input line 207.
+LaTeX Font Info:    Redeclaring math symbol \supsetneqq on input line 208.
+LaTeX Font Info:    Redeclaring math symbol \varsubsetneqq on input line 209.
+LaTeX Font Info:    Redeclaring math symbol \varsupsetneqq on input line 210.
+LaTeX Font Info:    Redeclaring math symbol \subsetneq on input line 211.
+LaTeX Font Info:    Redeclaring math symbol \supsetneq on input line 212.
+LaTeX Font Info:    Redeclaring math symbol \nsubseteq on input line 213.
+LaTeX Font Info:    Redeclaring math symbol \nsupseteq on input line 214.
+LaTeX Font Info:    Redeclaring math symbol \nparallel on input line 215.
+LaTeX Font Info:    Redeclaring math symbol \nmid on input line 216.
+LaTeX Font Info:    Redeclaring math symbol \nshortmid on input line 217.
+LaTeX Font Info:    Redeclaring math symbol \nshortparallel on input line 218.
+LaTeX Font Info:    Redeclaring math symbol \nvdash on input line 219.
+LaTeX Font Info:    Redeclaring math symbol \nVdash on input line 220.
+LaTeX Font Info:    Redeclaring math symbol \nvDash on input line 221.
+LaTeX Font Info:    Redeclaring math symbol \nVDash on input line 222.
+LaTeX Font Info:    Redeclaring math symbol \ntrianglerighteq on input line 223.
+LaTeX Font Info:    Redeclaring math symbol \ntrianglelefteq on input line 224.
+LaTeX Font Info:    Redeclaring math symbol \ntriangleleft on input line 225.
+LaTeX Font Info:    Redeclaring math symbol \ntriangleright on input line 226.
+LaTeX Font Info:    Redeclaring math symbol \nleftarrow on input line 227.
+LaTeX Font Info:    Redeclaring math symbol \nrightarrow on input line 228.
+LaTeX Font Info:    Redeclaring math symbol \nLeftarrow on input line 229.
+LaTeX Font Info:    Redeclaring math symbol \nRightarrow on input line 230.
+LaTeX Font Info:    Redeclaring math symbol \nLeftrightarrow on input line 231.
+LaTeX Font Info:    Redeclaring math symbol \nleftrightarrow on input line 232.
+LaTeX Font Info:    Redeclaring math symbol \divideontimes on input line 233.
+LaTeX Font Info:    Redeclaring math symbol \varnothing on input line 234.
+LaTeX Font Info:    Redeclaring math symbol \nexists on input line 235.
+LaTeX Font Info:    Redeclaring math symbol \Finv on input line 236.
+LaTeX Font Info:    Redeclaring math symbol \Game on input line 237.
+LaTeX Font Info:    Redeclaring math symbol \eth on input line 240.
+LaTeX Font Info:    Redeclaring math symbol \eqsim on input line 241.
+LaTeX Font Info:    Redeclaring math symbol \beth on input line 242.
+LaTeX Font Info:    Redeclaring math symbol \gimel on input line 243.
+LaTeX Font Info:    Redeclaring math symbol \daleth on input line 244.
+LaTeX Font Info:    Redeclaring math symbol \lessdot on input line 245.
+LaTeX Font Info:    Redeclaring math symbol \gtrdot on input line 246.
+LaTeX Font Info:    Redeclaring math symbol \ltimes on input line 247.
+LaTeX Font Info:    Redeclaring math symbol \rtimes on input line 248.
+LaTeX Font Info:    Redeclaring math symbol \shortmid on input line 249.
+LaTeX Font Info:    Redeclaring math symbol \shortparallel on input line 250.
+LaTeX Font Info:    Redeclaring math symbol \smallsetminus on input line 251.
+LaTeX Font Info:    Redeclaring math symbol \thicksim on input line 252.
+LaTeX Font Info:    Redeclaring math symbol \thickapprox on input line 253.
+LaTeX Font Info:    Redeclaring math symbol \approxeq on input line 254.
+LaTeX Font Info:    Redeclaring math symbol \succapprox on input line 255.
+LaTeX Font Info:    Redeclaring math symbol \precapprox on input line 256.
+LaTeX Font Info:    Redeclaring math symbol \curvearrowleft on input line 257.
+LaTeX Font Info:    Redeclaring math symbol \curvearrowright on input line 258.
+LaTeX Font Info:    Redeclaring math symbol \digamma on input line 259.
+LaTeX Font Info:    Redeclaring math symbol \varkappa on input line 260.
+LaTeX Font Info:    Redeclaring math symbol \hslash on input line 262.
+LaTeX Font Info:    Redeclaring math symbol \backepsilon on input line 265.
+) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks42
+\thm@bodyfont=\toks43
+\thm@headfont=\toks44
+\thm@notefont=\toks45
+\thm@headpunct=\toks46
+\thm@preskip=\skip60
+\thm@postskip=\skip61
+\thm@headsep=\skip62
+\dth@everypar=\toks47
+LaTeX Info: Redefining \textsquare on input line 427.
+)
+\textcolumnwidth=\skip63
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2026/03/07 v6.0 Page Geometry
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count342
+\Gm@cntv=\count343
+\c@Gm@tempcnt=\count344
+\Gm@bindingoffset=\dimen286
+\Gm@wd@mp=\dimen287
+\Gm@odd@mp=\dimen288
+\Gm@even@mp=\dimen289
+\Gm@layoutwidth=\dimen290
+\Gm@layoutheight=\dimen291
+\Gm@layouthoffset=\dimen292
+\Gm@layoutvoffset=\dimen293
+\Gm@dimlist=\toks48
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2025/01/04 v2.17 Sectioning titles
+\ttl@box=\box68
+\beforetitleunit=\skip64
+\aftertitleunit=\skip65
+\ttl@plus=\dimen294
+\ttl@minus=\dimen295
+\ttl@toksa=\toks49
+\titlewidth=\dimen296
+\titlewidthlast=\dimen297
+\titlewidthfirst=\dimen298
+)
+\c@ttlp@side=\count345
+\ttlp@side=\count346
+\c@chapterstar=\count347
+\c@subsubparagraph=\count348
+\c@aug=\count349
+\c@augtemp=\count350
+\c@addrtemp=\count351
+\c@fadauthor=\count352
+\c@fadaddress=\count353
+\c@addresslabel=\count354
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2025/02/06 v3.11 Customized lists
+\labelindent=\skip66
+\enit@outerparindent=\dimen299
+\enit@toks=\toks50
+\enit@inbox=\box69
+\enit@count@id=\count355
+\enitdp@description=\count356
+)
+\enitdp@chapterpointslist=\count357
+\enitdp@contributorslist=\count358
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen300
+\captionmargin=\dimen301
+\caption@leftmargin=\dimen302
+\caption@rightmargin=\dimen303
+\caption@width=\dimen304
+\caption@indent=\dimen305
+\caption@parindent=\dimen306
+\caption@hangindent=\dimen307
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count359
+\c@continuedfloat=\count360
+) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/environ\environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/trimspaces\trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+))
+\c@tabnote=\count361
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/mdframed\mdframed.sty
+Package: mdframed 2013/07/01 1.9b: mdframed
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/zref\zref-abspage.sty
+Package: zref-abspage 2026-03-07 v2.37 Module abspage for zref (HO)
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/zref\zref-base.sty
+Package: zref-base 2026-03-07 v2.37 Module base for zref (HO)
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+Package zref Info: New property list: main on input line 767.
+Package zref Info: New property: default on input line 768.
+Package zref Info: New property: page on input line 769.
+)
+\c@abspage=\count362
+Package zref Info: New property: abspage on input line 67.
+) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/needspace\needspace.sty
+Package: needspace 2025/03/13 v1.3e reserve vertical space
+)
+\mdf@templength=\skip67
+\c@mdf@globalstyle@cnt=\count363
+\mdf@skipabove@length=\skip68
+\mdf@skipbelow@length=\skip69
+\mdf@leftmargin@length=\skip70
+\mdf@rightmargin@length=\skip71
+\mdf@innerleftmargin@length=\skip72
+\mdf@innerrightmargin@length=\skip73
+\mdf@innertopmargin@length=\skip74
+\mdf@innerbottommargin@length=\skip75
+\mdf@splittopskip@length=\skip76
+\mdf@splitbottomskip@length=\skip77
+\mdf@outermargin@length=\skip78
+\mdf@innermargin@length=\skip79
+\mdf@linewidth@length=\skip80
+\mdf@innerlinewidth@length=\skip81
+\mdf@middlelinewidth@length=\skip82
+\mdf@outerlinewidth@length=\skip83
+\mdf@roundcorner@length=\skip84
+\mdf@footenotedistance@length=\skip85
+\mdf@userdefinedwidth@length=\skip86
+\mdf@needspace@length=\skip87
+\mdf@frametitleaboveskip@length=\skip88
+\mdf@frametitlebelowskip@length=\skip89
+\mdf@frametitlerulewidth@length=\skip90
+\mdf@frametitleleftmargin@length=\skip91
+\mdf@frametitlerightmargin@length=\skip92
+\mdf@shadowsize@length=\skip93
+\mdf@extratopheight@length=\skip94
+\mdf@subtitleabovelinewidth@length=\skip95
+\mdf@subtitlebelowlinewidth@length=\skip96
+\mdf@subtitleaboveskip@length=\skip97
+\mdf@subtitlebelowskip@length=\skip98
+\mdf@subtitleinneraboveskip@length=\skip99
+\mdf@subtitleinnerbelowskip@length=\skip100
+\mdf@subsubtitleabovelinewidth@length=\skip101
+\mdf@subsubtitlebelowlinewidth@length=\skip102
+\mdf@subsubtitleaboveskip@length=\skip103
+\mdf@subsubtitlebelowskip@length=\skip104
+\mdf@subsubtitleinneraboveskip@length=\skip105
+\mdf@subsubtitleinnerbelowskip@length=\skip106
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/mdframed\md-frame-1.mdf
+File: md-frame-1.mdf 2013/07/01\ 1.9b: md-frame-1
+)
+\mdf@frametitlebox=\box70
+\mdf@footnotebox=\box71
+\mdf@splitbox@one=\box72
+\mdf@splitbox@two=\box73
+\mdf@splitbox@save=\box74
+\mdfsplitboxwidth=\skip107
+\mdfsplitboxtotalwidth=\skip108
+\mdfsplitboxheight=\skip109
+\mdfsplitboxdepth=\skip110
+\mdfsplitboxtotalheight=\skip111
+\mdfframetitleboxwidth=\skip112
+\mdfframetitleboxtotalwidth=\skip113
+\mdfframetitleboxheight=\skip114
+\mdfframetitleboxdepth=\skip115
+\mdfframetitleboxtotalheight=\skip116
+\mdffootnoteboxwidth=\skip117
+\mdffootnoteboxtotalwidth=\skip118
+\mdffootnoteboxheight=\skip119
+\mdffootnoteboxdepth=\skip120
+\mdffootnoteboxtotalheight=\skip121
+\mdftotallinewidth=\skip122
+\mdfboundingboxwidth=\skip123
+\mdfboundingboxtotalwidth=\skip124
+\mdfboundingboxheight=\skip125
+\mdfboundingboxdepth=\skip126
+\mdfboundingboxtotalheight=\skip127
+\mdf@freevspace@length=\skip128
+\mdf@horizontalwidthofbox@length=\skip129
+\mdf@verticalmarginwhole@length=\skip130
+\mdf@horizontalspaceofbox=\skip131
+\mdfsubtitleheight=\skip132
+\mdfsubsubtitleheight=\skip133
+\c@mdfcountframes=\count364
+
+****** mdframed patching \endmdf@trivlist
+
+****** -- success******
+
+\mdf@envdepth=\count365
+\c@mdf@env@i=\count366
+\c@mdf@env@ii=\count367
+\c@mdf@zref@counter=\count368
+Package zref Info: New property: mdf@pagevalue on input line 895.
+) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/footmisc\footmisc.sty
+Package: footmisc 2025/05/09 v7.0b a miscellany of footnote facilities
+\FN@temptoken=\toks51
+\footnotemargin=\dimen308
+Package footmisc Info: Declaring symbol style bringhurst on input line 549.
+Package footmisc Info: Declaring symbol style chicago on input line 557.
+Package footmisc Info: Declaring symbol style wiley on input line 566.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 577.
+Package footmisc Info: Declaring symbol style lamport* on input line 597.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 618.
+)
+After Package Info: Collect commands for natbib on input line 888
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/minitoc\minitoc.sty
+Package: minitoc 2018/07/12 v62 Package minitoc
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/minitoc\mtcmess.sty
+Package: mtcmess 2006/03/14
+)
+Package minitoc Info: I0001
+(minitoc)             *** minitoc package, version 62 ***.
+\tf@mtc=\write4
+\mtcindent=\skip134
+\mtcskipamount=\skip135
+Package minitoc Info: I0005
+(minitoc)             compatible with hyperref.
+Package minitoc Info: I0023
+(minitoc)             part level macros available.
+Package minitoc Info: I0003
+(minitoc)             chapter level macros available.
+\mtc@toks=\toks52
+\mtc@strutbox=\box75
+\mtc@hstrutbox=\box76
+Package minitoc Info: I0002
+(minitoc)             Autoconfiguration of extensions.
+\openout4 = `main.mtc0'.
+
+\openout4 = `main.mtc'.
+
+ (c:\Users\lidal\OneDrive\0 - My Files\1 - Mastery\Dissertação\Notes of Framed Structures\Framed Structures\temp\main.mtc0)
+Package minitoc Info: I0012
+(minitoc)             Long extensions (Unix-like) will be used.
+Package minitoc Info: I0031
+(minitoc)             ==> this version is configured for UNIX-like 
+(minitoc)                 (long extensions) file names.
+\openout4 = `main.mtc'.
+
+\openout4 = `main.mtc0'.
+
+\c@mtc=\count369
+\c@minitocdepth=\count370
+\c@ptc=\count371
+\c@parttocdepth=\count372
+\ptcindent=\skip136
+Package minitoc Info: I0010
+(minitoc)             The english language is selected.
+(minitoc)              on input line 4910.
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/minitoc\english.mld
+File: english.mld 2006/01/13
+) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/minitoc\english.mld
+File: english.mld 2006/01/13
+)) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
+Package: multicol 2025/10/21 v2.0b multicolumn formatting (FMi)
+\c@tracingmulticols=\count373
+\mult@box=\box77
+\multicol@leftmargin=\dimen309
+\c@unbalance=\count374
+\c@collectmore=\count375
+\doublecol@number=\count376
+\multicoltolerance=\count377
+\multicolpretolerance=\count378
+\full@width=\dimen310
+\page@free=\dimen311
+\premulticols=\dimen312
+\postmulticols=\dimen313
+\multicolsep=\skip137
+\multicolbaselineskip=\skip138
+\partial@page=\box78
+\last@line=\box79
+\mc@boxedresult=\box80
+\maxbalancingoverflow=\dimen314
+\mult@rightbox=\box81
+\mult@grightbox=\box82
+\mult@firstbox=\box83
+\mult@gfirstbox=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\@tempa=\box102
+\@tempa=\box103
+\@tempa=\box104
+\@tempa=\box105
+\@tempa=\box106
+\@tempa=\box107
+\@tempa=\box108
+\@tempa=\box109
+\@tempa=\box110
+\@tempa=\box111
+\@tempa=\box112
+\@tempa=\box113
+\@tempa=\box114
+\@tempa=\box115
+\@tempa=\box116
+\@tempa=\box117
+\@tempa=\box118
+\@tempa=\box119
+\@tempa=\box120
+\c@minrows=\count379
+\c@columnbadness=\count380
+\c@finalcolumnbadness=\count381
+\last@try=\dimen315
+\multicolovershoot=\dimen316
+\multicolundershoot=\dimen317
+\mult@nat@firstbox=\box121
+\colbreak@box=\box122
+\mc@col@check@num=\count382
+\g__mc_curr_col_int=\count383
+)
+Package minitoc Info: I0016
+(minitoc)             \mtcsetformat redefines the macro 
+(minitoc)             "mtcdotsep" as "1000" on input line 1142.
+Package minitoc Info: I0016
+(minitoc)             \mtcsetformat redefines the macro 
+(minitoc)             "mtcdotsep" as "1" on input line 1143.
+Package minitoc Info: I0052
+(minitoc)             \mtcsetoffset redefines 
+(minitoc)             "mtcoffset" as "0pt" on input line 1146.
+Package minitoc Info: I0017
+(minitoc)             \mtcsettitle redefines the macro 
+(minitoc)             "mtctitle" as 
+(minitoc)             "Contents" on input line 1147.
+Package minitoc Info: I0017
+(minitoc)             \mtcsettitle redefines the macro 
+(minitoc)             "mtctitle" as 
+(minitoc)             "Contents\vskip 4pt\hrule " on input line 1148.
+Package minitoc Info: I0018
+(minitoc)             \mtcsettitlefont redefines the macro 
+(minitoc)             "mtifont" as 
+(minitoc)             "\large \sffamily \bfseries " on input line 1149.
+Package minitoc Info: I0015
+(minitoc)             \mtcsetfont redefines the macro 
+(minitoc)             "mtcSfont" as "\sffamily \bfseries " on input line 1150.
+Package minitoc Info: I0015
+(minitoc)             \mtcsetfont redefines the macro 
+(minitoc)             "mtcSSfont" as "\sffamily " on input line 1151.
+Package minitoc Info: I0015
+(minitoc)             \mtcsetfont redefines the macro 
+(minitoc)             "mtcSSSfont" as "\sffamily " on input line 1152.
+Package minitoc Info: I0015
+(minitoc)             \mtcsetfont redefines the macro 
+(minitoc)             "mtcSSSfont" as "\sffamily \itshape " on input line 1153.
+Package minitoc Info: I0008
+(minitoc)             Horizontal rules are inhibited 
+(minitoc)             for the minitocs on input line 1154.
+Package minitoc Info: I0016
+(minitoc)             \mtcsetformat redefines the macro 
+(minitoc)             "mtctocrmarg" as "2.55em plus 1fil" on input line 1155.
+\tocpartnumberlinenumwidth=\skip139
+\tocpartindent=\skip140
+\tocchapternumberlinenumwidth=\skip141
+\tocchapterindent=\skip142
+\tocsectionnumberlinenumwidth=\skip143
+\tocsectionindent=\skip144
+\tocsubsectionnumberlinenumwidth=\skip145
+\tocsubsectionindent=\skip146
+\tocsubsubsectionnumberlinenumwidth=\skip147
+\tocsubsubsectionindent=\skip148
+After Package Info: Collect commands for index on input line 1366
+After Package Info: Collect commands for hyperref on input line 1405
+)) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2026/03/24 v26.5 The multilingual framework for LuaLaTeX, pdfLaTeX and XeLaTeX
+\babel@savecnt=\count384
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input line 2078.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input line 2080.
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input line 2082.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input line 2083.
+LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) on input line 2084.
+LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) on input line 2086.
+LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) on input line 2111.
+\U@D=\dimen318
+\l@unhyphenated=\language79
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read4
+\bbl@dirlevel=\count385
+Package babel Info: Configuration files are deprecated, as
+(babel)             they can break document portability.
+(babel)             Reported on input line 4206.
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/pt\babel-brazilian.tex)
+Package babel Info: Importing font and identification data for brazilian
+(babel)             from babel-pt-BR.ini. Reported on input line 4330.
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/babel-portuges\brazilian.ldf
+Language: portuges 2026/01/24 v1.2u Portuguese support from the babel system
+Package babel Info: Hyphen rules for 'brazilian' set to \l@portuguese
+(babel)             (\language56). Reported on input line 100.
+Package babel Info: Making " an active character on input line 132.
+)) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/arydshln\arydshln.sty
+Package: arydshln 2019/02/21 v1.76 
+\dashlinedash=\dimen319
+\dashlinegap=\dimen320
+\adl@box=\box123
+\adl@height=\dimen321
+\adl@heightsave=\dimen322
+\adl@depth=\dimen323
+\adl@depthsave=\dimen324
+\adl@finaldepth=\dimen325
+\adl@columns=\count386
+\adl@ncol=\count387
+\adl@currentcolumn=\count388
+\adl@currentcolumnsave=\count389
+\adl@totalheight=\count390
+\adl@totalheightsave=\count391
+\adl@dash=\count392
+\adl@gap=\count393
+\adl@cla=\count394
+\adl@clb=\count395
+\adl@everyvbox=\toks53
+\adl@LTpagetotal=\dimen326
+)
+==> First Aid for arydshln.sty applied!
+(C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count396
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count397
+) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/tools\indentfirst.sty
+Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
+) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/natbib\natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip149
+\bibsep=\skip150
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count398
+)
+After Package Info: Apply commands to natbib on input line 38
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count399
+\lst@gtempboxa=\box124
+\lst@token=\toks54
+\lst@length=\count400
+\lst@currlwidth=\dimen327
+\lst@column=\count401
+\lst@pos=\count402
+\lst@lostspace=\dimen328
+\lst@width=\dimen329
+\lst@newlines=\count403
+\lst@lineno=\count404
+\lst@maxwidth=\dimen330
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstpatch.sty
+File: lstpatch.sty 2025/11/14 1.11b (Carsten Heinz)
+) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2025/11/14 1.11b (Carsten Heinz)
+\c@lstnumber=\count405
+\lst@skipnumbers=\count406
+\lst@framebox=\box125
+) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2025/11/14 1.11b listings configuration
+))
+Package: listings 2025/11/14 1.11b (Carsten Heinz)
+
+==> First Aid for listings.sty no longer applied!
+    Expected:
+        2024/09/23 1.10c (Carsten Heinz)
+    but found:
+        2025/11/14 1.11b (Carsten Heinz)
+    so I'm assuming it got fixed.
+(C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2025/11/14 1.11b listings language file
+) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2025/11/14 1.11b listings language file
+) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2025/11/14 1.11b listings language file
+)
+LaTeX Font Info:    Trying to load font information for T1+ntxtlf on input line 84.
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/newtx\t1ntxtlf.fd
+File: t1ntxtlf.fd 2021/05/24 v1.1 font definition file for T1/ntx/tlf
+)
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 10.0pt on input line 84.
+ (c:\Users\lidal\OneDrive\0 - My Files\1 - Mastery\Dissertação\Notes of Framed Structures\Framed Structures\temp\main.aux (c:\Users\lidal\OneDrive\0 - My Files\1 - Mastery\Dissertação\Notes of Framed Structures\Framed Structures\temp\book/front/title-page.aux)
+Package babel Info: 'brazilian' activates 'portuges' shorthands.
+(babel)             Reported on input line 7.
+ (c:\Users\lidal\OneDrive\0 - My Files\1 - Mastery\Dissertação\Notes of Framed Structures\Framed Structures\temp\book/front/table-of-contents.aux) (c:\Users\lidal\OneDrive\0 - My Files\1 - Mastery\Dissertação\Notes of Framed Structures\Framed Structures\temp\book/front/list-of-figures.aux) (c:\Users\lidal\OneDrive\0 - My Files\1 - Mastery\Dissertação\Notes of Framed Structures\Framed Structures\temp\book/front/list-of-tables.aux) (c:\Users\lidal\OneDrive\0 - My Files\1 - Mastery\Dissertação\Notes of Framed Structures\Framed Structures\temp\book/front/list-of-symbols.aux) (c:\Users\lidal\OneDrive\0 - My Files\1 - Mastery\Dissertação\Notes of Framed Structures\Framed Structures\temp\book/front/about-authors.aux) (c:\Users\lidal\OneDrive\0 - My Files\1 - Mastery\Dissertação\Notes of Framed Structures\Framed Structures\temp\book/main/part-1/part-1.aux) (c:\Users\lidal\OneDrive\0 - My Files\1 - Mastery\Dissertação\Notes of Framed Structures\Framed Structures\temp\book/main/part-1/chapter-01/chapter-01.aux) (c:\Users\lidal\OneDrive\0 - My Files\1 - Mastery\Dissertação\Notes of Framed Structures\Framed Structures\temp\book/main/part-1/chapter-02/chapter-02.aux) (c:\Users\lidal\OneDrive\0 - My Files\1 - Mastery\Dissertação\Notes of Framed Structures\Framed Structures\temp\book/main/part-1/chapter-03/chapter-03.aux) (c:\Users\lidal\OneDrive\0 - My Files\1 - Mastery\Dissertação\Notes of Framed Structures\Framed Structures\temp\book/main/part-1/chapter-04/chapter-04.aux) (c:\Users\lidal\OneDrive\0 - My Files\1 - Mastery\Dissertação\Notes of Framed Structures\Framed Structures\temp\book/main/part-2/part-2.aux) (c:\Users\lidal\OneDrive\0 - My Files\1 - Mastery\Dissertação\Notes of Framed Structures\Framed Structures\temp\book/main/part-2/chapter-test/chapter-test.aux) (c:\Users\lidal\OneDrive\0 - My Files\1 - Mastery\Dissertação\Notes of Framed Structures\Framed Structures\temp\book/appendix/appendix-01/appendix-01.aux) (c:\Users\lidal\OneDrive\0 - My Files\1 - Mastery\Dissertação\Notes of Framed Structures\Framed Structures\temp\book/back/references.aux))
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 84.
+LaTeX Font Info:    Trying to load font information for OML+ntxmi on input line 84.
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/newtx\omlntxmi.fd
+File: omlntxmi.fd 2015/08/25 Fontinst v1.933 font definitions for OML/ntxmi.
+)
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 84.
+LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 84.
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxexa.fd
+File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
+)
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 84.
+LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line 84.
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/newtx\lmsntxsy.fd
+File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
+)
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 84.
+LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input line 84.
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/newtx\lmxntxexx.fd
+File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
+)
+LaTeX Font Info:    ... okay on input line 84.
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count407
+\scratchdimen=\dimen331
+\scratchbox=\box126
+\nofMPsegments=\count408
+\nofMParguments=\count409
+\everyMPshowfont=\toks55
+\MPscratchCnt=\count410
+\MPscratchDim=\dimen332
+\MPnumerator=\count411
+\makeMPintoPDFobject=\count412
+\everyMPtoPDFconversion=\toks56
+) (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+\c@mv@tabular=\count413
+\c@mv@boldtabular=\count414
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/upquote\upquote.sty
+Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verbatim
+)
+LaTeX Info: Command `\dddot' is already robust on input line 84.
+LaTeX Info: Command `\ddddot' is already robust on input line 84.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(71.13188pt, 486.25761pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 666.9326pt, 71.13188pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=486.25761pt
+* \textheight=666.9326pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-55.43198pt
+* \headheight=22.0pt
+* \headsep=18.06749pt
+* \topskip=10.0pt
+* \footskip=25.29494pt
+* \marginparwidth=125.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=12.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+Package minitoc Info: I0024
+(minitoc)             PREPARING MINITOCS FROM main.toc on input line 84.
+Package minitoc Info: I0033
+(minitoc)             Writing main.mtc1.
+\openout4 = `main.mtc1'.
+
+Package minitoc Info: I0033
+(minitoc)             Writing main.mtc2.
+\openout4 = `main.mtc2'.
+
+Package minitoc Info: I0033
+(minitoc)             Writing main.mtc3.
+\openout4 = `main.mtc3'.
+
+Package minitoc Info: I0033
+(minitoc)             Writing main.mtc4.
+\openout4 = `main.mtc4'.
+
+Package minitoc Info: I0033
+(minitoc)             Writing main.mtc5.
+\openout4 = `main.mtc5'.
+
+Package minitoc Info: I0033
+(minitoc)             Writing main.mtc6.
+\openout4 = `main.mtc6'.
+
+\c@lstlisting=\count415
+\openout2 = `book/front/title-page.aux'.
+
+(book/front/title-page.tex
+LaTeX Font Info:    Trying to load font information for T1+FiraSans-LF on input line 1.
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/fira\t1firasans-lf.fd
+File: T1FiraSans-LF.fd 2019/10/10 (autoinst) Font definitions for T1/FiraSans-LF.
+)
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/m/n' in size <10> not available
+(Font)              Font shape `T1/FiraSans-LF/regular/n' tried instead on input line 1.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/regular/n' will be
+(Font)              scaled to size 10.0pt on input line 1.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/m/n' in size <34> not available
+(Font)              Font shape `T1/FiraSans-LF/regular/n' tried instead on input line 3.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/regular/n' will be
+(Font)              scaled to size 34.0pt on input line 3.
+LaTeX Font Info:    Trying to load font information for TS1+FiraSans-LF on input line 8.
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/fira\ts1firasans-lf.fd
+File: TS1FiraSans-LF.fd 2019/10/10 (autoinst) Font definitions for TS1/FiraSans-LF.
+)
+LaTeX Font Info:    Font shape `TS1/FiraSans-LF/m/n' in size <10> not available
+(Font)              Font shape `TS1/FiraSans-LF/regular/n' tried instead on input line 8.
+LaTeX Font Info:    Font shape `TS1/FiraSans-LF/regular/n' will be
+(Font)              scaled to size 10.0pt on input line 8.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/m/n' in size <16> not available
+(Font)              Font shape `T1/FiraSans-LF/regular/n' tried instead on input line 12.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/regular/n' will be
+(Font)              scaled to size 16.0pt on input line 12.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/b/n' in size <16> not available
+(Font)              Font shape `T1/FiraSans-LF/bold/n' tried instead on input line 12.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/bold/n' will be
+(Font)              scaled to size 16.0pt on input line 12.
+) [1
+
+
+
+{C:/Users/lidal/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/lidal/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fira/fir_tz2nek.enc}{C:/Users/lidal/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fira/fir_d67aat.enc}]
+\openout2 = `book/front/table-of-contents.aux'.
+
+ (book/front/table-of-contents.tex [2
+
+
+
+
+]
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/l/n' in size <22> not available
+(Font)              Font shape `T1/FiraSans-LF/light/n' tried instead on input line 2.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/light/n' will be
+(Font)              scaled to size 22.0pt on input line 2.
+ (c:\Users\lidal\OneDrive\0 - My Files\1 - Mastery\Dissertação\Notes of Framed Structures\Framed Structures\temp\main.toc
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/b/n' in size <10> not available
+(Font)              Font shape `T1/FiraSans-LF/bold/n' tried instead on input line 3.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/bold/n' will be
+(Font)              scaled to size 10.0pt on input line 3.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/b/n' in size <14> not available
+(Font)              Font shape `T1/FiraSans-LF/bold/n' tried instead on input line 3.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/bold/n' will be
+(Font)              scaled to size 14.0pt on input line 3.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 14.0pt on input line 3.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/m/n' in size <14> not available
+(Font)              Font shape `T1/FiraSans-LF/regular/n' tried instead on input line 3.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/regular/n' will be
+(Font)              scaled to size 14.0pt on input line 3.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/b/n' in size <12> not available
+(Font)              Font shape `T1/FiraSans-LF/bold/n' tried instead on input line 4.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/bold/n' will be
+(Font)              scaled to size 12.0pt on input line 4.
+LaTeX Font Info:    Trying to load font information for OT1+minntx on input line 4.
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/newtx\ot1minntx.fd
+File: ot1minntx.fd 2023/09/09 v1.1 font definition file for OT1/minntx
+)
+LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
+(Font)              scaled to size 12.0pt on input line 4.
+LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
+(Font)              scaled to size 8.8pt on input line 4.
+LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
+(Font)              scaled to size 6.6pt on input line 4.
+LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
+(Font)              scaled to size 12.0pt on input line 4.
+LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
+(Font)              scaled to size 8.8pt on input line 4.
+LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
+(Font)              scaled to size 6.6pt on input line 4.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 12.0pt on input line 4.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 8.8pt on input line 4.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 6.6pt on input line 4.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 12.0pt on input line 4.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 8.8pt on input line 4.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 6.6pt on input line 4.
+LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 4.
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxmia.fd
+File: untxmia.fd 2024/04/09 Fontinst v1.933 font definitions for U/ntxmia.
+)
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 12.0pt on input line 4.
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 8.8pt on input line 4.
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 6.6pt on input line 4.
+LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 4.
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxsym.fd
+File: untxsym.fd 2023/08/16 Fontinst v1.933 font definitions for U/ntxsym.
+)
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 12.0pt on input line 4.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 8.8pt on input line 4.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 6.6pt on input line 4.
+LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 4.
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxsyc.fd
+File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
+)
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 12.0pt on input line 4.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 8.8pt on input line 4.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 6.6pt on input line 4.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 12.0pt on input line 4.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 8.8pt on input line 4.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 6.6pt on input line 4.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 4.
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 12.0pt on input line 4.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/m/n' in size <12> not available
+(Font)              Font shape `T1/FiraSans-LF/regular/n' tried instead on input line 4.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/regular/n' will be
+(Font)              scaled to size 12.0pt on input line 4.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/m/n' in size <9> not available
+(Font)              Font shape `T1/FiraSans-LF/regular/n' tried instead on input line 4.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/regular/n' will be
+(Font)              scaled to size 9.0pt on input line 4.
+LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
+(Font)              scaled to size 10.0pt on input line 5.
+LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
+(Font)              scaled to size 7.3pt on input line 5.
+LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
+(Font)              scaled to size 5.5pt on input line 5.
+LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
+(Font)              scaled to size 10.0pt on input line 5.
+LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
+(Font)              scaled to size 7.3pt on input line 5.
+LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
+(Font)              scaled to size 5.5pt on input line 5.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 10.0pt on input line 5.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 7.3pt on input line 5.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 5.5pt on input line 5.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 10.0pt on input line 5.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 7.3pt on input line 5.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 5.5pt on input line 5.
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 10.0pt on input line 5.
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 7.3pt on input line 5.
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 5.5pt on input line 5.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 10.0pt on input line 5.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 7.3pt on input line 5.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 5.5pt on input line 5.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 10.0pt on input line 5.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 7.3pt on input line 5.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 5.5pt on input line 5.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 10.0pt on input line 5.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 7.3pt on input line 5.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 5.5pt on input line 5.
+LaTeX Font Info:    Font shape `OT1/minntx/b/n' will be
+(Font)              scaled to size 10.0pt on input line 38.
+LaTeX Font Info:    Font shape `OT1/minntx/b/n' will be
+(Font)              scaled to size 7.3pt on input line 38.
+LaTeX Font Info:    Font shape `OT1/minntx/b/n' will be
+(Font)              scaled to size 5.5pt on input line 38.
+)
+\tf@toc=\write5
+\openout5 = `main.toc'.
+
+)
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/l/n' in size <11> not available
+(Font)              Font shape `T1/FiraSans-LF/light/n' tried instead on input line 89.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/light/n' will be
+(Font)              scaled to size 11.0pt on input line 89.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/b/n' in size <11> not available
+(Font)              Font shape `T1/FiraSans-LF/bold/n' tried instead on input line 89.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/bold/n' will be
+(Font)              scaled to size 11.0pt on input line 89.
+ [3{C:/Users/lidal/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}{C:/Users/lidal/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}]
+\openout2 = `book/front/list-of-figures.aux'.
+
+ (book/front/list-of-figures.tex [4
+
+
+
+
+] (c:\Users\lidal\OneDrive\0 - My Files\1 - Mastery\Dissertação\Notes of Framed Structures\Framed Structures\temp\main.lof
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/m/n' in size <8> not available
+(Font)              Font shape `T1/FiraSans-LF/regular/n' tried instead on input line 3.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/regular/n' will be
+(Font)              scaled to size 8.0pt on input line 3.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/m/it' in size <10> not available
+(Font)              Font shape `T1/FiraSans-LF/regular/it' tried instead on input line 30.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/regular/it' will be
+(Font)              scaled to size 10.0pt on input line 30.
+)
+\tf@lof=\write6
+\openout6 = `main.lof'.
+
+) [5]
+\openout2 = `book/front/list-of-tables.aux'.
+
+ (book/front/list-of-tables.tex [6
+
+
+
+
+] (c:\Users\lidal\OneDrive\0 - My Files\1 - Mastery\Dissertação\Notes of Framed Structures\Framed Structures\temp\main.lot)
+\tf@lot=\write7
+\openout7 = `main.lot'.
+
+) [7]
+\openout2 = `book/front/list-of-symbols.aux'.
+
+ (book/front/list-of-symbols.tex [8
+
+
+
+
+]
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
+(Font)              scaled to size 10.0pt on input line 6.
+) [9]
+\openout2 = `book/front/about-authors.aux'.
+
+ (book/front/about-authors.tex [10
+
+
+
+
+]
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/b/n' in size <13.5> not available
+(Font)              Font shape `T1/FiraSans-LF/bold/n' tried instead on input line 6.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/bold/n' will be
+(Font)              scaled to size 13.5pt on input line 6.
+) [11] [12
+
+
+
+]
+\openout2 = `book/main/part-1/part-1.aux'.
+
+ (book/main/part-1/part-1.tex
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/bx/n' in size <18> not available
+(Font)              Font shape `T1/FiraSans-LF/b/n' tried instead on input line 2.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/b/n' in size <18> not available
+(Font)              Font shape `T1/FiraSans-LF/bold/n' tried instead on input line 2.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/bold/n' will be
+(Font)              scaled to size 18.0pt on input line 2.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 115.0pt on input line 2.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/l/n' in size <32> not available
+(Font)              Font shape `T1/FiraSans-LF/light/n' tried instead on input line 2.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/light/n' will be
+(Font)              scaled to size 32.0pt on input line 2.
+) [1
+
+
+]
+\openout2 = `book/main/part-1/chapter-01/chapter-01.aux'.
+
+ (book/main/part-1/chapter-01/chapter-01.tex [2
+
+
+
+
+]
+Cap\'{\i }tulo 1.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/bx/n' in size <10> not available
+(Font)              Font shape `T1/FiraSans-LF/b/n' tried instead on input line 2.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/b/n' in size <10> not available
+(Font)              Font shape `T1/FiraSans-LF/bold/n' tried instead on input line 2.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/bold/n' will be
+(Font)              scaled to size 10.0pt on input line 2.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 84.0pt on input line 2.
+<book/main/part-1/chapter-01/img/frame1.pdf, id=62, 512.21361pt x 313.04956pt>
+File: book/main/part-1/chapter-01/img/frame1.pdf Graphic file (type pdf)
+<use book/main/part-1/chapter-01/img/frame1.pdf>
+Package pdftex.def Info: book/main/part-1/chapter-01/img/frame1.pdf  used on input line 14.
+(pdftex.def)             Requested size: 409.77144pt x 250.43997pt.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 8.75pt on input line 15.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/m/n' in size <8.75> not available
+(Font)              Font shape `T1/FiraSans-LF/regular/n' tried instead on input line 15.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/regular/n' will be
+(Font)              scaled to size 8.75pt on input line 15.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/b/n' in size <8.75> not available
+(Font)              Font shape `T1/FiraSans-LF/bold/n' tried instead on input line 15.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/bold/n' will be
+(Font)              scaled to size 8.75pt on input line 15.
+<book/main/part-1/chapter-01/img/3Dframelems1.pdf, id=63, 350.0277pt x 313.04956pt>
+File: book/main/part-1/chapter-01/img/3Dframelems1.pdf Graphic file (type pdf)
+<use book/main/part-1/chapter-01/img/3Dframelems1.pdf>
+Package pdftex.def Info: book/main/part-1/chapter-01/img/3Dframelems1.pdf  used on input line 24.
+(pdftex.def)             Requested size: 210.01823pt x 187.83118pt.
+LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
+(Font)              scaled to size 8.0pt on input line 25.
+LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
+(Font)              scaled to size 6.0pt on input line 25.
+LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
+(Font)              scaled to size 8.0pt on input line 25.
+LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
+(Font)              scaled to size 6.0pt on input line 25.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 8.0pt on input line 25.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 6.0pt on input line 25.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 8.0pt on input line 25.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 6.0pt on input line 25.
+LaTeX Font Info:    Font shape `OT1/minntx/b/n' will be
+(Font)              scaled to size 8.0pt on input line 25.
+LaTeX Font Info:    Font shape `OT1/minntx/b/n' will be
+(Font)              scaled to size 6.0pt on input line 25.
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 8.0pt on input line 25.
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 6.0pt on input line 25.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 8.0pt on input line 25.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 6.0pt on input line 25.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 8.0pt on input line 25.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 6.0pt on input line 25.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 8.0pt on input line 25.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 6.0pt on input line 25.
+<book/main/part-1/chapter-01/img/3Dframelems2.pdf, id=64, 313.04956pt x 313.04956pt>
+File: book/main/part-1/chapter-01/img/3Dframelems2.pdf Graphic file (type pdf)
+<use book/main/part-1/chapter-01/img/3Dframelems2.pdf>
+Package pdftex.def Info: book/main/part-1/chapter-01/img/3Dframelems2.pdf  used on input line 30.
+(pdftex.def)             Requested size: 187.83118pt x 187.83118pt.
+<book/main/part-1/chapter-01/img/3Dframelems3.pdf, id=65, 369.96216pt x 227.6505pt>
+File: book/main/part-1/chapter-01/img/3Dframelems3.pdf Graphic file (type pdf)
+<use book/main/part-1/chapter-01/img/3Dframelems3.pdf>
+Package pdftex.def Info: book/main/part-1/chapter-01/img/3Dframelems3.pdf  used on input line 37.
+(pdftex.def)             Requested size: 295.97011pt x 182.12064pt.
+<book/main/part-1/chapter-01/img/ligações-details.pdf, id=66, 398.38837pt x 313.04956pt>
+File: book/main/part-1/chapter-01/img/ligações-details.pdf Graphic file (type pdf)
+<use book/main/part-1/chapter-01/img/ligações-details.pdf>
+Package pdftex.def Info: book/main/part-1/chapter-01/img/ligações-details.pdf  used on input line 45.
+(pdftex.def)             Requested size: 239.03485pt x 187.83118pt.
+<book/main/part-1/chapter-01/img/bridge.pdf, id=67, 398.38837pt x 284.56313pt>
+File: book/main/part-1/chapter-01/img/bridge.pdf Graphic file (type pdf)
+<use book/main/part-1/chapter-01/img/bridge.pdf>
+Package pdftex.def Info: book/main/part-1/chapter-01/img/bridge.pdf  used on input line 52.
+(pdftex.def)             Requested size: 239.03485pt x 170.73918pt.
+<book/main/part-1/chapter-01/img/bridgemodel.pdf, id=68, 398.38837pt x 284.56313pt>
+File: book/main/part-1/chapter-01/img/bridgemodel.pdf Graphic file (type pdf)
+<use book/main/part-1/chapter-01/img/bridgemodel.pdf>
+Package pdftex.def Info: book/main/part-1/chapter-01/img/bridgemodel.pdf  used on input line 58.
+(pdftex.def)             Requested size: 258.94936pt x 184.96384pt.
+<book/main/part-1/chapter-01/img/bridgedetails.pdf, id=69, 512.21361pt x 213.4374pt>
+File: book/main/part-1/chapter-01/img/bridgedetails.pdf Graphic file (type pdf)
+<use book/main/part-1/chapter-01/img/bridgedetails.pdf>
+Package pdftex.def Info: book/main/part-1/chapter-01/img/bridgedetails.pdf  used on input line 64.
+(pdftex.def)             Requested size: 332.93489pt x 138.73265pt.
+<book/main/part-1/chapter-01/img/ansys-mod.pdf, id=70, 426.8748pt x 298.83646pt>
+File: book/main/part-1/chapter-01/img/ansys-mod.pdf Graphic file (type pdf)
+<use book/main/part-1/chapter-01/img/ansys-mod.pdf>
+Package pdftex.def Info: book/main/part-1/chapter-01/img/ansys-mod.pdf  used on input line 71.
+(pdftex.def)             Requested size: 426.87375pt x 298.83572pt.
+) [3
+
+ <./book/main/part-1/chapter-01/img/frame1.pdf>]
+Package babel Info: 'brazilian' activates 'portuges' shorthands.
+(babel)             Reported on input line 99.
+ [4 <./book/main/part-1/chapter-01/img/3Dframelems1.pdf> <./book/main/part-1/chapter-01/img/3Dframelems2.pdf> <./book/main/part-1/chapter-01/img/3Dframelems3.pdf> <./book/main/part-1/chapter-01/img/ligações-details.pdf>] [5 <./book/main/part-1/chapter-01/img/bridge.pdf> <./book/main/part-1/chapter-01/img/bridgemodel.pdf> <./book/main/part-1/chapter-01/img/bridgedetails.pdf>] [6 <./book/main/part-1/chapter-01/img/ansys-mod.pdf>]
+\openout2 = `book/main/part-1/chapter-02/chapter-02.aux'.
+
+ (book/main/part-1/chapter-02/chapter-02.tex
+Cap\'{\i }tulo 2.
+<book/main/part-1/chapter-02/img/ex-viga-iso.pdf, id=189, 341.47577pt x 256.07669pt>
+File: book/main/part-1/chapter-02/img/ex-viga-iso.pdf Graphic file (type pdf)
+<use book/main/part-1/chapter-02/img/ex-viga-iso.pdf>
+Package pdftex.def Info: book/main/part-1/chapter-02/img/ex-viga-iso.pdf  used on input line 55.
+(pdftex.def)             Requested size: 204.88704pt x 153.6472pt.
+<book/main/part-1/chapter-02/img/ex-viga-hiper.pdf, id=190, 341.47577pt x 170.73788pt>
+File: book/main/part-1/chapter-02/img/ex-viga-hiper.pdf Graphic file (type pdf)
+<use book/main/part-1/chapter-02/img/ex-viga-hiper.pdf>
+Package pdftex.def Info: book/main/part-1/chapter-02/img/ex-viga-hiper.pdf  used on input line 59.
+(pdftex.def)             Requested size: 221.95662pt x 110.9783pt.
+<book/main/part-1/chapter-02/img/ex-treliçaplana.pdf, id=191, 512.21361pt x 199.16408pt>
+File: book/main/part-1/chapter-02/img/ex-treliçaplana.pdf Graphic file (type pdf)
+<use book/main/part-1/chapter-02/img/ex-treliçaplana.pdf>
+Package pdftex.def Info: book/main/part-1/chapter-02/img/ex-treliçaplana.pdf  used on input line 64.
+(pdftex.def)             Requested size: 230.49399pt x 89.62299pt.
+<book/main/part-1/chapter-02/img/port-plano1-ic.pdf, id=192, 426.8748pt x 128.09857pt>
+File: book/main/part-1/chapter-02/img/port-plano1-ic.pdf Graphic file (type pdf)
+<use book/main/part-1/chapter-02/img/port-plano1-ic.pdf>
+Package pdftex.def Info: book/main/part-1/chapter-02/img/port-plano1-ic.pdf  used on input line 68.
+(pdftex.def)             Requested size: 298.81032pt x 89.66837pt.
+<book/main/part-1/chapter-02/img/port-plano1-ie.pdf, id=193, 512.21361pt x 193.50293pt>
+File: book/main/part-1/chapter-02/img/port-plano1-ie.pdf Graphic file (type pdf)
+<use book/main/part-1/chapter-02/img/port-plano1-ie.pdf>
+Package pdftex.def Info: book/main/part-1/chapter-02/img/port-plano1-ie.pdf  used on input line 72.
+(pdftex.def)             Requested size: 384.15926pt x 145.12683pt.
+<book/main/part-1/chapter-02/img/port-plano2-ic.pdf, id=194, 512.21361pt x 170.73788pt>
+File: book/main/part-1/chapter-02/img/port-plano2-ic.pdf Graphic file (type pdf)
+<use book/main/part-1/chapter-02/img/port-plano2-ic.pdf>
+Package pdftex.def Info: book/main/part-1/chapter-02/img/port-plano2-ic.pdf  used on input line 76.
+(pdftex.def)             Requested size: 409.77144pt x 136.59048pt.
+<book/main/part-1/chapter-02/img/port-plano2-ie.pdf, id=195, 512.21361pt x 199.16408pt>
+File: book/main/part-1/chapter-02/img/port-plano2-ie.pdf Graphic file (type pdf)
+<use book/main/part-1/chapter-02/img/port-plano2-ie.pdf>
+Package pdftex.def Info: book/main/part-1/chapter-02/img/port-plano2-ie.pdf  used on input line 80.
+(pdftex.def)             Requested size: 409.77144pt x 159.33147pt.
+<book/main/part-1/chapter-02/img/port-plano3-fechado.pdf, id=196, 512.21361pt x 256.07669pt>
+File: book/main/part-1/chapter-02/img/port-plano3-fechado.pdf Graphic file (type pdf)
+<use book/main/part-1/chapter-02/img/port-plano3-fechado.pdf>
+Package pdftex.def Info: book/main/part-1/chapter-02/img/port-plano3-fechado.pdf  used on input line 84.
+(pdftex.def)             Requested size: 384.15926pt x 192.05704pt.
+[7
+
+
+
+
+
+
+] [8 <./book/main/part-1/chapter-02/img/ex-viga-iso.pdf> <./book/main/part-1/chapter-02/img/ex-viga-hiper.pdf> <./book/main/part-1/chapter-02/img/ex-treliçaplana.pdf> <./book/main/part-1/chapter-02/img/port-plano1-ic.pdf> <./book/main/part-1/chapter-02/img/port-plano1-ie.pdf> <./book/main/part-1/chapter-02/img/port-plano2-ic.pdf>] [9 <./book/main/part-1/chapter-02/img/port-plano2-ie.pdf> <./book/main/part-1/chapter-02/img/port-plano3-fechado.pdf>]
+<book/main/part-1/chapter-02/img/port-plano4-fechado.pdf, id=333, 512.21361pt x 227.6505pt>
+File: book/main/part-1/chapter-02/img/port-plano4-fechado.pdf Graphic file (type pdf)
+<use book/main/part-1/chapter-02/img/port-plano4-fechado.pdf>
+Package pdftex.def Info: book/main/part-1/chapter-02/img/port-plano4-fechado.pdf  used on input line 89.
+(pdftex.def)             Requested size: 384.15926pt x 170.73744pt.
+<book/main/part-1/chapter-02/img/port-plano5-fechado.pdf, id=334, 512.21361pt x 256.07669pt>
+File: book/main/part-1/chapter-02/img/port-plano5-fechado.pdf Graphic file (type pdf)
+<use book/main/part-1/chapter-02/img/port-plano5-fechado.pdf>
+Package pdftex.def Info: book/main/part-1/chapter-02/img/port-plano5-fechado.pdf  used on input line 94.
+(pdftex.def)             Requested size: 409.77144pt x 204.86163pt.
+<book/main/part-1/chapter-02/img/port-plano6-fechado.pdf, id=335, 512.21361pt x 256.07669pt>
+File: book/main/part-1/chapter-02/img/port-plano6-fechado.pdf Graphic file (type pdf)
+<use book/main/part-1/chapter-02/img/port-plano6-fechado.pdf>
+Package pdftex.def Info: book/main/part-1/chapter-02/img/port-plano6-fechado.pdf  used on input line 99.
+(pdftex.def)             Requested size: 409.77144pt x 204.86163pt.
+ [10
+
+ <./book/main/part-1/chapter-02/img/port-plano4-fechado.pdf> <./book/main/part-1/chapter-02/img/port-plano5-fechado.pdf> <./book/main/part-1/chapter-02/img/port-plano6-fechado.pdf>]
+<book/main/part-1/chapter-02/img/treliçaplana2.pdf, id=387, 512.21361pt x 156.52478pt>
+File: book/main/part-1/chapter-02/img/treliçaplana2.pdf Graphic file (type pdf)
+<use book/main/part-1/chapter-02/img/treliçaplana2.pdf>
+Package pdftex.def Info: book/main/part-1/chapter-02/img/treliçaplana2.pdf  used on input line 105.
+(pdftex.def)             Requested size: 409.77144pt x 125.21997pt.
+<book/main/part-1/chapter-02/img/grelha1.pdf, id=388, 369.96216pt x 284.56313pt>
+File: book/main/part-1/chapter-02/img/grelha1.pdf Graphic file (type pdf)
+<use book/main/part-1/chapter-02/img/grelha1.pdf>
+Package pdftex.def Info: book/main/part-1/chapter-02/img/grelha1.pdf  used on input line 110.
+(pdftex.def)             Requested size: 314.4693pt x 241.87979pt.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
+(Font)              scaled to size 10.0pt on input line 117.
+LaTeX Font Info:    Trying to load font information for TS1+ntxtlf on input line 117.
+ (C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/newtx\ts1ntxtlf.fd
+File: ts1ntxtlf.fd 2015/01/18 v1.0 fd file for TS1/ntxtlf
+)
+LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
+(Font)              scaled to size 10.0pt on input line 117.
+) [11
+
+{C:/Users/lidal/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ts1.enc} <./book/main/part-1/chapter-02/img/treliçaplana2.pdf> <./book/main/part-1/chapter-02/img/grelha1.pdf>]
+\openout2 = `book/main/part-1/chapter-03/chapter-03.aux'.
+
+ (book/main/part-1/chapter-03/chapter-03.tex [12
+
+
+
+
+]
+Cap\'{\i }tulo 3.
+<book/main/part-1/chapter-03/img/solid3D.pdf, id=430, 369.96216pt x 227.6505pt>
+File: book/main/part-1/chapter-03/img/solid3D.pdf Graphic file (type pdf)
+<use book/main/part-1/chapter-03/img/solid3D.pdf>
+Package pdftex.def Info: book/main/part-1/chapter-03/img/solid3D.pdf  used on input line 27.
+(pdftex.def)             Requested size: 147.98224pt x 91.05858pt.
+<book/main/part-1/chapter-03/img/porticoplano.pdf, id=431, 341.47577pt x 227.6505pt>
+File: book/main/part-1/chapter-03/img/porticoplano.pdf Graphic file (type pdf)
+<use book/main/part-1/chapter-03/img/porticoplano.pdf>
+Package pdftex.def Info: book/main/part-1/chapter-03/img/porticoplano.pdf  used on input line 51.
+(pdftex.def)             Requested size: 204.88704pt x 136.59134pt.
+<book/main/part-1/chapter-03/img/trelicas2D.pdf, id=432, 369.96216pt x 199.16408pt>
+File: book/main/part-1/chapter-03/img/trelicas2D.pdf Graphic file (type pdf)
+<use book/main/part-1/chapter-03/img/trelicas2D.pdf>
+Package pdftex.def Info: book/main/part-1/chapter-03/img/trelicas2D.pdf  used on input line 78.
+(pdftex.def)             Requested size: 258.97174pt x 139.41388pt.
+[13
+
+
+ <./book/main/part-1/chapter-03/img/solid3D.pdf> <./book/main/part-1/chapter-03/img/porticoplano.pdf>]
+<book/main/part-1/chapter-03/img/grelha.pdf, id=460, 284.56313pt x 199.16408pt>
+File: book/main/part-1/chapter-03/img/grelha.pdf Graphic file (type pdf)
+<use book/main/part-1/chapter-03/img/grelha.pdf>
+Package pdftex.def Info: book/main/part-1/chapter-03/img/grelha.pdf  used on input line 102.
+(pdftex.def)             Requested size: 199.19283pt x 139.41388pt.
+<book/main/part-1/chapter-03/img/trelica3D.pdf, id=461, 284.56313pt x 284.56313pt>
+File: book/main/part-1/chapter-03/img/trelica3D.pdf Graphic file (type pdf)
+<use book/main/part-1/chapter-03/img/trelica3D.pdf>
+Package pdftex.def Info: book/main/part-1/chapter-03/img/trelica3D.pdf  used on input line 122.
+(pdftex.def)             Requested size: 170.73918pt x 170.73918pt.
+ [14 <./book/main/part-1/chapter-03/img/trelicas2D.pdf> <./book/main/part-1/chapter-03/img/grelha.pdf> <./book/main/part-1/chapter-03/img/trelica3D.pdf>]
+<book/main/part-1/chapter-03/img/portico3D.pdf, id=492, 341.47577pt x 284.56313pt>
+File: book/main/part-1/chapter-03/img/portico3D.pdf Graphic file (type pdf)
+<use book/main/part-1/chapter-03/img/portico3D.pdf>
+Package pdftex.def Info: book/main/part-1/chapter-03/img/portico3D.pdf  used on input line 147.
+(pdftex.def)             Requested size: 204.88704pt x 170.73918pt.
+ [15
+
+ <./book/main/part-1/chapter-03/img/portico3D.pdf>]
+
+pdfTeX warning: pdflatex (file ./book/main/part-1/chapter-03/img/fluxogramaMF.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+<book/main/part-1/chapter-03/img/fluxogramaMF.pdf, id=504, 608.19218pt x 401.44983pt>
+File: book/main/part-1/chapter-03/img/fluxogramaMF.pdf Graphic file (type pdf)
+<use book/main/part-1/chapter-03/img/fluxogramaMF.pdf>
+Package pdftex.def Info: book/main/part-1/chapter-03/img/fluxogramaMF.pdf  used on input line 174.
+(pdftex.def)             Requested size: 364.91812pt x 240.87175pt.
+LaTeX Font Info:    Font shape `OML/ntxmi/b/it' will be
+(Font)              scaled to size 10.0pt on input line 220.
+LaTeX Font Info:    Font shape `OML/ntxmi/b/it' will be
+(Font)              scaled to size 7.3pt on input line 220.
+LaTeX Font Info:    Font shape `OML/ntxmi/b/it' will be
+(Font)              scaled to size 5.5pt on input line 220.
+LaTeX Font Info:    Font shape `LMS/ntxsy/b/n' will be
+(Font)              scaled to size 10.0pt on input line 220.
+LaTeX Font Info:    Font shape `LMS/ntxsy/b/n' will be
+(Font)              scaled to size 7.3pt on input line 220.
+LaTeX Font Info:    Font shape `LMS/ntxsy/b/n' will be
+(Font)              scaled to size 5.5pt on input line 220.
+LaTeX Font Info:    Font shape `LMX/ntxexx/b/n' will be
+(Font)              scaled to size 10.0pt on input line 220.
+LaTeX Font Info:    Font shape `LMX/ntxexx/b/n' will be
+(Font)              scaled to size 7.3pt on input line 220.
+LaTeX Font Info:    Font shape `LMX/ntxexx/b/n' will be
+(Font)              scaled to size 5.5pt on input line 220.
+LaTeX Font Info:    Font shape `U/ntxmia/b/it' will be
+(Font)              scaled to size 10.0pt on input line 220.
+LaTeX Font Info:    Font shape `U/ntxmia/b/it' will be
+(Font)              scaled to size 7.3pt on input line 220.
+LaTeX Font Info:    Font shape `U/ntxmia/b/it' will be
+(Font)              scaled to size 5.5pt on input line 220.
+LaTeX Font Info:    Font shape `U/ntxsym/b/n' will be
+(Font)              scaled to size 10.0pt on input line 220.
+LaTeX Font Info:    Font shape `U/ntxsym/b/n' will be
+(Font)              scaled to size 7.3pt on input line 220.
+LaTeX Font Info:    Font shape `U/ntxsym/b/n' will be
+(Font)              scaled to size 5.5pt on input line 220.
+LaTeX Font Info:    Font shape `U/ntxsyc/b/n' will be
+(Font)              scaled to size 10.0pt on input line 220.
+LaTeX Font Info:    Font shape `U/ntxsyc/b/n' will be
+(Font)              scaled to size 7.3pt on input line 220.
+LaTeX Font Info:    Font shape `U/ntxsyc/b/n' will be
+(Font)              scaled to size 5.5pt on input line 220.
+LaTeX Font Info:    Font shape `U/ntxexa/b/n' will be
+(Font)              scaled to size 10.0pt on input line 220.
+LaTeX Font Info:    Font shape `U/ntxexa/b/n' will be
+(Font)              scaled to size 7.3pt on input line 220.
+LaTeX Font Info:    Font shape `U/ntxexa/b/n' will be
+(Font)              scaled to size 5.5pt on input line 220.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 7.3pt on input line 246.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 5.5pt on input line 246.
+[16
+
+ <./book/main/part-1/chapter-03/img/fluxogramaMF.pdf>]
+<book/main/part-1/chapter-03/img/temperatura.pdf, id=514, 426.8748pt x 284.56313pt>
+File: book/main/part-1/chapter-03/img/temperatura.pdf Graphic file (type pdf)
+<use book/main/part-1/chapter-03/img/temperatura.pdf>
+Package pdftex.def Info: book/main/part-1/chapter-03/img/temperatura.pdf  used on input line 306.
+(pdftex.def)             Requested size: 298.81032pt x 199.19283pt.
+ [17] [18 <./book/main/part-1/chapter-03/img/temperatura.pdf>]
+LaTeX Font Info:    Calculating math sizes for size <13.5> on input line 370.
+LaTeX Font Info:    Font shape `OT1/minntx/b/n' will be
+(Font)              scaled to size 13.5pt on input line 370.
+LaTeX Font Info:    Font shape `OT1/minntx/b/n' will be
+(Font)              scaled to size 9.85493pt on input line 370.
+LaTeX Font Info:    Font shape `OT1/minntx/b/n' will be
+(Font)              scaled to size 7.42503pt on input line 370.
+LaTeX Font Info:    Font shape `OML/ntxmi/b/it' will be
+(Font)              scaled to size 13.5pt on input line 370.
+LaTeX Font Info:    Font shape `OML/ntxmi/b/it' will be
+(Font)              scaled to size 9.85493pt on input line 370.
+LaTeX Font Info:    Font shape `OML/ntxmi/b/it' will be
+(Font)              scaled to size 7.42503pt on input line 370.
+LaTeX Font Info:    Font shape `LMS/ntxsy/b/n' will be
+(Font)              scaled to size 13.5pt on input line 370.
+LaTeX Font Info:    Font shape `LMS/ntxsy/b/n' will be
+(Font)              scaled to size 9.85493pt on input line 370.
+LaTeX Font Info:    Font shape `LMS/ntxsy/b/n' will be
+(Font)              scaled to size 7.42503pt on input line 370.
+LaTeX Font Info:    Font shape `LMX/ntxexx/b/n' will be
+(Font)              scaled to size 13.5pt on input line 370.
+LaTeX Font Info:    Font shape `LMX/ntxexx/b/n' will be
+(Font)              scaled to size 9.85493pt on input line 370.
+LaTeX Font Info:    Font shape `LMX/ntxexx/b/n' will be
+(Font)              scaled to size 7.42503pt on input line 370.
+LaTeX Font Info:    Font shape `U/ntxmia/b/it' will be
+(Font)              scaled to size 13.5pt on input line 370.
+LaTeX Font Info:    Font shape `U/ntxmia/b/it' will be
+(Font)              scaled to size 9.85493pt on input line 370.
+LaTeX Font Info:    Font shape `U/ntxmia/b/it' will be
+(Font)              scaled to size 7.42503pt on input line 370.
+LaTeX Font Info:    Font shape `U/ntxsym/b/n' will be
+(Font)              scaled to size 13.5pt on input line 370.
+LaTeX Font Info:    Font shape `U/ntxsym/b/n' will be
+(Font)              scaled to size 9.85493pt on input line 370.
+LaTeX Font Info:    Font shape `U/ntxsym/b/n' will be
+(Font)              scaled to size 7.42503pt on input line 370.
+LaTeX Font Info:    Font shape `U/ntxsyc/b/n' will be
+(Font)              scaled to size 13.5pt on input line 370.
+LaTeX Font Info:    Font shape `U/ntxsyc/b/n' will be
+(Font)              scaled to size 9.85493pt on input line 370.
+LaTeX Font Info:    Font shape `U/ntxsyc/b/n' will be
+(Font)              scaled to size 7.42503pt on input line 370.
+LaTeX Font Info:    Font shape `U/ntxexa/b/n' will be
+(Font)              scaled to size 13.5pt on input line 370.
+LaTeX Font Info:    Font shape `U/ntxexa/b/n' will be
+(Font)              scaled to size 9.85493pt on input line 370.
+LaTeX Font Info:    Font shape `U/ntxexa/b/n' will be
+(Font)              scaled to size 7.42503pt on input line 370.
+<book/main/part-1/chapter-03/img/shearfactor.pdf, id=538, 512.21361pt x 142.31168pt>
+File: book/main/part-1/chapter-03/img/shearfactor.pdf Graphic file (type pdf)
+<use book/main/part-1/chapter-03/img/shearfactor.pdf>
+Package pdftex.def Info: book/main/part-1/chapter-03/img/shearfactor.pdf  used on input line 376.
+(pdftex.def)             Requested size: 358.54707pt x 99.61748pt.
+<book/main/part-1/chapter-03/img/statmom.pdf, id=539, 313.04956pt x 256.07669pt>
+File: book/main/part-1/chapter-03/img/statmom.pdf Graphic file (type pdf)
+<use book/main/part-1/chapter-03/img/statmom.pdf>
+Package pdftex.def Info: book/main/part-1/chapter-03/img/statmom.pdf  used on input line 407.
+(pdftex.def)             Requested size: 125.21759pt x 102.42885pt.
+LaTeX Font Info:    Calculating math sizes for size <8.75> on input line 408.
+LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
+(Font)              scaled to size 8.75pt on input line 408.
+LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
+(Font)              scaled to size 6.38745pt on input line 408.
+LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
+(Font)              scaled to size 4.81252pt on input line 408.
+LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
+(Font)              scaled to size 8.75pt on input line 408.
+LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
+(Font)              scaled to size 6.38745pt on input line 408.
+LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
+(Font)              scaled to size 4.81252pt on input line 408.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 8.75pt on input line 408.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 6.38745pt on input line 408.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 4.81252pt on input line 408.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 8.75pt on input line 408.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 6.38745pt on input line 408.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 4.81252pt on input line 408.
+LaTeX Font Info:    Font shape `OT1/minntx/b/n' will be
+(Font)              scaled to size 8.75pt on input line 408.
+LaTeX Font Info:    Font shape `OT1/minntx/b/n' will be
+(Font)              scaled to size 6.38745pt on input line 408.
+LaTeX Font Info:    Font shape `OT1/minntx/b/n' will be
+(Font)              scaled to size 4.81252pt on input line 408.
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 8.75pt on input line 408.
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 6.38745pt on input line 408.
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 4.81252pt on input line 408.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 8.75pt on input line 408.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 6.38745pt on input line 408.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 4.81252pt on input line 408.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 8.75pt on input line 408.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 6.38745pt on input line 408.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 4.81252pt on input line 408.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 8.75pt on input line 408.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 6.38745pt on input line 408.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 4.81252pt on input line 408.
+LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
+(Font)              scaled to size 10.95pt on input line 433.
+LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
+(Font)              scaled to size 6.1pt on input line 433.
+LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
+(Font)              scaled to size 10.95pt on input line 433.
+LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
+(Font)              scaled to size 6.1pt on input line 433.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 10.95pt on input line 433.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 6.1pt on input line 433.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 10.95pt on input line 433.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 6.1pt on input line 433.
+LaTeX Font Info:    Font shape `OT1/minntx/b/n' will be
+(Font)              scaled to size 10.95pt on input line 433.
+LaTeX Font Info:    Font shape `OT1/minntx/b/n' will be
+(Font)              scaled to size 6.1pt on input line 433.
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 10.95pt on input line 433.
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 6.1pt on input line 433.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 10.95pt on input line 433.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 6.1pt on input line 433.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 10.95pt on input line 433.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 6.1pt on input line 433.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 10.95pt on input line 433.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 6.1pt on input line 433.
+ [19 <./book/main/part-1/chapter-03/img/shearfactor.pdf> <./book/main/part-1/chapter-03/img/statmom.pdf>]) [20]
+\openout2 = `book/main/part-1/chapter-04/chapter-04.aux'.
+
+ (book/main/part-1/chapter-04/chapter-04.tex
+Cap\'{\i }tulo 4.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 8.5pt on input line 11.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/m/n' in size <8.5> not available
+(Font)              Font shape `T1/FiraSans-LF/regular/n' tried instead on input line 11.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/regular/n' will be
+(Font)              scaled to size 8.5pt on input line 11.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 9.75pt on input line 13.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/m/n' in size <9.75> not available
+(Font)              Font shape `T1/FiraSans-LF/regular/n' tried instead on input line 13.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/regular/n' will be
+(Font)              scaled to size 9.75pt on input line 13.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/b/n' in size <9.75> not available
+(Font)              Font shape `T1/FiraSans-LF/bold/n' tried instead on input line 13.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/bold/n' will be
+(Font)              scaled to size 9.75pt on input line 13.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/m/it' in size <9.75> not available
+(Font)              Font shape `T1/FiraSans-LF/regular/it' tried instead on input line 13.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/regular/it' will be
+(Font)              scaled to size 9.75pt on input line 13.
+LaTeX Font Info:    Calculating math sizes for size <8.5> on input line 14.
+LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
+(Font)              scaled to size 8.5pt on input line 14.
+LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
+(Font)              scaled to size 6.20496pt on input line 14.
+LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
+(Font)              scaled to size 4.67502pt on input line 14.
+LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
+(Font)              scaled to size 8.5pt on input line 14.
+LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
+(Font)              scaled to size 6.20496pt on input line 14.
+LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
+(Font)              scaled to size 4.67502pt on input line 14.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 8.5pt on input line 14.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 6.20496pt on input line 14.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 4.67502pt on input line 14.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 8.5pt on input line 14.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 6.20496pt on input line 14.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 4.67502pt on input line 14.
+LaTeX Font Info:    Font shape `OT1/minntx/b/n' will be
+(Font)              scaled to size 8.5pt on input line 14.
+LaTeX Font Info:    Font shape `OT1/minntx/b/n' will be
+(Font)              scaled to size 6.20496pt on input line 14.
+LaTeX Font Info:    Font shape `OT1/minntx/b/n' will be
+(Font)              scaled to size 4.67502pt on input line 14.
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 8.5pt on input line 14.
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 6.20496pt on input line 14.
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 4.67502pt on input line 14.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 8.5pt on input line 14.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 6.20496pt on input line 14.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 4.67502pt on input line 14.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 8.5pt on input line 14.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 6.20496pt on input line 14.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 4.67502pt on input line 14.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 8.5pt on input line 14.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 6.20496pt on input line 14.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 4.67502pt on input line 14.
+<book/main/part-1/chapter-04/img/elplanefr1_gl.pdf, id=600, 398.38837pt x 227.6505pt>
+File: book/main/part-1/chapter-04/img/elplanefr1_gl.pdf Graphic file (type pdf)
+<use book/main/part-1/chapter-04/img/elplanefr1_gl.pdf>
+Package pdftex.def Info: book/main/part-1/chapter-04/img/elplanefr1_gl.pdf  used on input line 32.
+(pdftex.def)             Requested size: 199.19368pt x 113.82497pt.
+<book/main/part-1/chapter-04/img/elplanefr1_rig.pdf, id=601, 392.72723pt x 227.6505pt>
+File: book/main/part-1/chapter-04/img/elplanefr1_rig.pdf Graphic file (type pdf)
+<use book/main/part-1/chapter-04/img/elplanefr1_rig.pdf>
+Package pdftex.def Info: book/main/part-1/chapter-04/img/elplanefr1_rig.pdf  used on input line 38.
+(pdftex.def)             Requested size: 196.36313pt x 113.82497pt.
+[21
+
+
+
+
+
+ <./book/main/part-1/chapter-04/img/elplanefr1_gl.pdf> <./book/main/part-1/chapter-04/img/elplanefr1_rig.pdf>]
+<book/main/part-1/chapter-04/img/planefrel1_loads.pdf, id=621, 398.38837pt x 227.6505pt>
+File: book/main/part-1/chapter-04/img/planefrel1_loads.pdf Graphic file (type pdf)
+<use book/main/part-1/chapter-04/img/planefrel1_loads.pdf>
+Package pdftex.def Info: book/main/part-1/chapter-04/img/planefrel1_loads.pdf  used on input line 56.
+(pdftex.def)             Requested size: 199.19368pt x 113.82497pt.
+ [22 <./book/main/part-1/chapter-04/img/planefrel1_loads.pdf>]
+<book/main/part-1/chapter-04/img/rot2D.pdf, id=632, 313.04956pt x 227.6505pt>
+File: book/main/part-1/chapter-04/img/rot2D.pdf Graphic file (type pdf)
+<use book/main/part-1/chapter-04/img/rot2D.pdf>
+Package pdftex.def Info: book/main/part-1/chapter-04/img/rot2D.pdf  used on input line 116.
+(pdftex.def)             Requested size: 156.52438pt x 113.82497pt.
+<book/main/part-1/chapter-04/img/rot-trel2D.pdf, id=633, 313.04956pt x 227.6505pt>
+File: book/main/part-1/chapter-04/img/rot-trel2D.pdf Graphic file (type pdf)
+<use book/main/part-1/chapter-04/img/rot-trel2D.pdf>
+Package pdftex.def Info: book/main/part-1/chapter-04/img/rot-trel2D.pdf  used on input line 165.
+(pdftex.def)             Requested size: 140.87099pt x 102.44177pt.
+<book/main/part-1/chapter-04/img/rot-port2D.pdf, id=634, 313.04956pt x 227.6505pt>
+File: book/main/part-1/chapter-04/img/rot-port2D.pdf Graphic file (type pdf)
+<use book/main/part-1/chapter-04/img/rot-port2D.pdf>
+Package pdftex.def Info: book/main/part-1/chapter-04/img/rot-port2D.pdf  used on input line 188.
+(pdftex.def)             Requested size: 140.87099pt x 102.44177pt.
+ [23 <./book/main/part-1/chapter-04/img/rot2D.pdf> <./book/main/part-1/chapter-04/img/rot-trel2D.pdf>]
+<book/main/part-1/chapter-04/img/rot-port3D.pdf, id=670, 199.16408pt x 227.6505pt>
+File: book/main/part-1/chapter-04/img/rot-port3D.pdf Graphic file (type pdf)
+<use book/main/part-1/chapter-04/img/rot-port3D.pdf>
+Package pdftex.def Info: book/main/part-1/chapter-04/img/rot-port3D.pdf  used on input line 207.
+(pdftex.def)             Requested size: 89.62299pt x 102.44177pt.
+<book/main/part-1/chapter-04/img/fr3Del1.pdf, id=671, 369.96216pt x 227.6505pt>
+File: book/main/part-1/chapter-04/img/fr3Del1.pdf Graphic file (type pdf)
+<use book/main/part-1/chapter-04/img/fr3Del1.pdf>
+Package pdftex.def Info: book/main/part-1/chapter-04/img/fr3Del1.pdf  used on input line 248.
+(pdftex.def)             Requested size: 221.97899pt x 136.59134pt.
+ [24 <./book/main/part-1/chapter-04/img/rot-port2D.pdf> <./book/main/part-1/chapter-04/img/rot-port3D.pdf>] [25 <./book/main/part-1/chapter-04/img/fr3Del1.pdf>]
+<book/main/part-1/chapter-04/img/numeltrl2d.pdf, id=719, 313.04956pt x 128.09857pt>
+File: book/main/part-1/chapter-04/img/numeltrl2d.pdf Graphic file (type pdf)
+<use book/main/part-1/chapter-04/img/numeltrl2d.pdf>
+Package pdftex.def Info: book/main/part-1/chapter-04/img/numeltrl2d.pdf  used on input line 275.
+(pdftex.def)             Requested size: 125.21759pt x 51.23851pt.
+<book/main/part-1/chapter-04/img/numelfr2d.pdf, id=720, 313.04956pt x 142.31168pt>
+File: book/main/part-1/chapter-04/img/numelfr2d.pdf Graphic file (type pdf)
+<use book/main/part-1/chapter-04/img/numelfr2d.pdf>
+Package pdftex.def Info: book/main/part-1/chapter-04/img/numelfr2d.pdf  used on input line 282.
+(pdftex.def)             Requested size: 125.21759pt x 56.92365pt.
+<book/main/part-1/chapter-04/img/numelgrelha.pdf, id=721, 332.9238pt x 142.31168pt>
+File: book/main/part-1/chapter-04/img/numelgrelha.pdf Graphic file (type pdf)
+<use book/main/part-1/chapter-04/img/numelgrelha.pdf>
+Package pdftex.def Info: book/main/part-1/chapter-04/img/numelgrelha.pdf  used on input line 289.
+(pdftex.def)             Requested size: 133.16714pt x 56.92365pt.
+ [26
+
+ <./book/main/part-1/chapter-04/img/numeltrl2d.pdf> <./book/main/part-1/chapter-04/img/numelfr2d.pdf> <./book/main/part-1/chapter-04/img/numelgrelha.pdf>]
+<book/main/part-1/chapter-04/img/desl_rig.pdf, id=758, 335.81459pt x 227.6505pt>
+File: book/main/part-1/chapter-04/img/desl_rig.pdf Graphic file (type pdf)
+<use book/main/part-1/chapter-04/img/desl_rig.pdf>
+Package pdftex.def Info: book/main/part-1/chapter-04/img/desl_rig.pdf  used on input line 380.
+(pdftex.def)             Requested size: 201.4903pt x 136.59134pt.
+<book/main/part-1/chapter-04/img/struct-p1.pdf, id=759, 330.09322pt x 227.6505pt>
+File: book/main/part-1/chapter-04/img/struct-p1.pdf Graphic file (type pdf)
+<use book/main/part-1/chapter-04/img/struct-p1.pdf>
+Package pdftex.def Info: book/main/part-1/chapter-04/img/struct-p1.pdf  used on input line 395.
+(pdftex.def)             Requested size: 181.55182pt x 125.20815pt.
+<book/main/part-1/chapter-04/img/struct-el1.pdf, id=760, 330.09322pt x 213.4374pt>
+File: book/main/part-1/chapter-04/img/struct-el1.pdf Graphic file (type pdf)
+<use book/main/part-1/chapter-04/img/struct-el1.pdf>
+Package pdftex.def Info: book/main/part-1/chapter-04/img/struct-el1.pdf  used on input line 402.
+(pdftex.def)             Requested size: 198.05745pt x 128.06342pt.
+<book/main/part-1/chapter-04/img/struct-el2.pdf, id=761, 256.07669pt x 227.6505pt>
+File: book/main/part-1/chapter-04/img/struct-el2.pdf Graphic file (type pdf)
+<use book/main/part-1/chapter-04/img/struct-el2.pdf>
+Package pdftex.def Info: book/main/part-1/chapter-04/img/struct-el2.pdf  used on input line 422.
+(pdftex.def)             Requested size: 153.6472pt x 136.59134pt.
+ [27 <./book/main/part-1/chapter-04/img/desl_rig.pdf> <./book/main/part-1/chapter-04/img/struct-p1.pdf> <./book/main/part-1/chapter-04/img/struct-el1.pdf>]
+<book/main/part-1/chapter-04/img/struct-node.pdf, id=796, 298.83646pt x 221.98935pt>
+File: book/main/part-1/chapter-04/img/struct-node.pdf Graphic file (type pdf)
+<use book/main/part-1/chapter-04/img/struct-node.pdf>
+Package pdftex.def Info: book/main/part-1/chapter-04/img/struct-node.pdf  used on input line 440.
+(pdftex.def)             Requested size: 179.30325pt x 133.19463pt.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/m/it' in size <8.75> not available
+(Font)              Font shape `T1/FiraSans-LF/regular/it' tried instead on input line 441.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/regular/it' will be
+(Font)              scaled to size 8.75pt on input line 441.
+LaTeX Font Info:    Calculating math sizes for size <9.75> on input line 449.
+LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
+(Font)              scaled to size 9.75pt on input line 449.
+LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
+(Font)              scaled to size 7.11745pt on input line 449.
+LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
+(Font)              scaled to size 5.36252pt on input line 449.
+LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
+(Font)              scaled to size 9.75pt on input line 449.
+LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
+(Font)              scaled to size 7.11745pt on input line 449.
+LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
+(Font)              scaled to size 5.36252pt on input line 449.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 9.75pt on input line 449.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 7.11745pt on input line 449.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 5.36252pt on input line 449.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 9.75pt on input line 449.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 7.11745pt on input line 449.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 5.36252pt on input line 449.
+LaTeX Font Info:    Font shape `OT1/minntx/b/n' will be
+(Font)              scaled to size 9.75pt on input line 449.
+LaTeX Font Info:    Font shape `OT1/minntx/b/n' will be
+(Font)              scaled to size 7.11745pt on input line 449.
+LaTeX Font Info:    Font shape `OT1/minntx/b/n' will be
+(Font)              scaled to size 5.36252pt on input line 449.
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 9.75pt on input line 449.
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 7.11745pt on input line 449.
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 5.36252pt on input line 449.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 9.75pt on input line 449.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 7.11745pt on input line 449.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 5.36252pt on input line 449.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 9.75pt on input line 449.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 7.11745pt on input line 449.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 5.36252pt on input line 449.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 9.75pt on input line 449.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 7.11745pt on input line 449.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 5.36252pt on input line 449.
+ [28 <./book/main/part-1/chapter-04/img/struct-el2.pdf> <./book/main/part-1/chapter-04/img/struct-node.pdf>]
+<book/main/part-1/chapter-04/img/gl_syst1.pdf, id=822, 426.8748pt x 199.16408pt>
+File: book/main/part-1/chapter-04/img/gl_syst1.pdf Graphic file (type pdf)
+<use book/main/part-1/chapter-04/img/gl_syst1.pdf>
+Package pdftex.def Info: book/main/part-1/chapter-04/img/gl_syst1.pdf  used on input line 518.
+(pdftex.def)             Requested size: 384.18376pt x 179.24599pt.
+ [29] [30 <./book/main/part-1/chapter-04/img/gl_syst1.pdf>]
+<book/main/part-1/chapter-04/img/aloc1.pdf, id=842, 412.6617pt x 247.58498pt>
+File: book/main/part-1/chapter-04/img/aloc1.pdf Graphic file (type pdf)
+<use book/main/part-1/chapter-04/img/aloc1.pdf>
+Package pdftex.def Info: book/main/part-1/chapter-04/img/aloc1.pdf  used on input line 557.
+(pdftex.def)             Requested size: 371.39207pt x 222.82442pt.
+<book/main/part-1/chapter-04/img/descont1.pdf, id=843, 455.30101pt x 150.8034pt>
+File: book/main/part-1/chapter-04/img/descont1.pdf Graphic file (type pdf)
+<use book/main/part-1/chapter-04/img/descont1.pdf>
+Package pdftex.def Info: book/main/part-1/chapter-04/img/descont1.pdf  used on input line 570.
+(pdftex.def)             Requested size: 409.76712pt x 135.72179pt.
+ [31
+
+ <./book/main/part-1/chapter-04/img/aloc1.pdf> <./book/main/part-1/chapter-04/img/descont1.pdf>]
+<book/main/part-1/chapter-04/img/rotula1.pdf, id=868, 341.47577pt x 247.58498pt>
+File: book/main/part-1/chapter-04/img/rotula1.pdf Graphic file (type pdf)
+<use book/main/part-1/chapter-04/img/rotula1.pdf>
+Package pdftex.def Info: book/main/part-1/chapter-04/img/rotula1.pdf  used on input line 588.
+(pdftex.def)             Requested size: 307.32535pt x 222.82442pt.
+ [32 <./book/main/part-1/chapter-04/img/rotula1.pdf>]
+<book/main/part-1/chapter-04/img/port_rot1.pdf, id=883, 341.47577pt x 227.6505pt>
+File: book/main/part-1/chapter-04/img/port_rot1.pdf Graphic file (type pdf)
+<use book/main/part-1/chapter-04/img/port_rot1.pdf>
+Package pdftex.def Info: book/main/part-1/chapter-04/img/port_rot1.pdf  used on input line 649.
+(pdftex.def)             Requested size: 409.76886pt x 273.17921pt.
+<book/main/part-1/chapter-04/img/port_nok.pdf, id=884, 341.47577pt x 170.73788pt>
+File: book/main/part-1/chapter-04/img/port_nok.pdf Graphic file (type pdf)
+<use book/main/part-1/chapter-04/img/port_nok.pdf>
+Package pdftex.def Info: book/main/part-1/chapter-04/img/port_nok.pdf  used on input line 666.
+(pdftex.def)             Requested size: 307.32535pt x 153.66266pt.
+ [33]
+<book/main/part-1/chapter-04/img/el_rotula1.pdf, id=888, 313.04956pt x 96.78157pt>
+File: book/main/part-1/chapter-04/img/el_rotula1.pdf Graphic file (type pdf)
+<use book/main/part-1/chapter-04/img/el_rotula1.pdf>
+Package pdftex.def Info: book/main/part-1/chapter-04/img/el_rotula1.pdf  used on input line 699.
+(pdftex.def)             Requested size: 187.83118pt x 58.06938pt.
+ [34 <./book/main/part-1/chapter-04/img/port_rot1.pdf> <./book/main/part-1/chapter-04/img/port_nok.pdf>]
+<book/main/part-1/chapter-04/img/el_rotula2.pdf, id=919, 241.92383pt x 96.78157pt>
+File: book/main/part-1/chapter-04/img/el_rotula2.pdf Graphic file (type pdf)
+<use book/main/part-1/chapter-04/img/el_rotula2.pdf>
+Package pdftex.def Info: book/main/part-1/chapter-04/img/el_rotula2.pdf  used on input line 758.
+(pdftex.def)             Requested size: 193.5393pt x 77.42535pt.
+ [35 <./book/main/part-1/chapter-04/img/el_rotula1.pdf>] [36 <./book/main/part-1/chapter-04/img/el_rotula2.pdf>]
+<book/main/part-1/chapter-04/img/apoio_elast1.pdf, id=954, 392.72723pt x 341.47577pt>
+File: book/main/part-1/chapter-04/img/apoio_elast1.pdf Graphic file (type pdf)
+<use book/main/part-1/chapter-04/img/apoio_elast1.pdf>
+Package pdftex.def Info: book/main/part-1/chapter-04/img/apoio_elast1.pdf  used on input line 847.
+(pdftex.def)             Requested size: 235.63814pt x 204.88704pt.
+ [37 <./book/main/part-1/chapter-04/img/apoio_elast1.pdf>]
+<book/main/part-1/chapter-04/img/apoio_inclinado.pdf, id=980, 392.72723pt x 341.47577pt>
+File: book/main/part-1/chapter-04/img/apoio_inclinado.pdf Graphic file (type pdf)
+<use book/main/part-1/chapter-04/img/apoio_inclinado.pdf>
+Package pdftex.def Info: book/main/part-1/chapter-04/img/apoio_inclinado.pdf  used on input line 881.
+(pdftex.def)             Requested size: 235.63814pt x 204.88704pt.
+ [38 <./book/main/part-1/chapter-04/img/apoio_inclinado.pdf>]
+<book/main/part-1/chapter-04/img/reac1.pdf, id=1000, 392.72723pt x 253.24612pt>
+File: book/main/part-1/chapter-04/img/reac1.pdf Graphic file (type pdf)
+<use book/main/part-1/chapter-04/img/reac1.pdf>
+Package pdftex.def Info: book/main/part-1/chapter-04/img/reac1.pdf  used on input line 929.
+(pdftex.def)             Requested size: 235.63814pt x 151.94884pt.
+ [39 <./book/main/part-1/chapter-04/img/reac1.pdf>]) [40]
+\openout2 = `book/main/part-2/part-2.aux'.
+
+ (book/main/part-2/part-2.tex) [41
+
+
+
+
+]
+\openout2 = `book/main/part-2/chapter-test/chapter-test.aux'.
+
+ (book/main/part-2/chapter-test/chapter-test.tex [42
+
+
+
+
+]
+Cap\'{\i }tulo 5.
+LaTeX Font Info:    Calculating math sizes for size <22> on input line 4.
+LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
+(Font)              scaled to size 22.0pt on input line 4.
+LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
+(Font)              scaled to size 16.0599pt on input line 4.
+LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
+(Font)              scaled to size 12.10007pt on input line 4.
+LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
+(Font)              scaled to size 22.0pt on input line 4.
+LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
+(Font)              scaled to size 16.0599pt on input line 4.
+LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
+(Font)              scaled to size 12.10007pt on input line 4.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 22.0pt on input line 4.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 16.0599pt on input line 4.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 12.10007pt on input line 4.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 22.0pt on input line 4.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 16.0599pt on input line 4.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 12.10007pt on input line 4.
+LaTeX Font Info:    Font shape `OT1/minntx/b/n' will be
+(Font)              scaled to size 22.0pt on input line 4.
+LaTeX Font Info:    Font shape `OT1/minntx/b/n' will be
+(Font)              scaled to size 16.0599pt on input line 4.
+LaTeX Font Info:    Font shape `OT1/minntx/b/n' will be
+(Font)              scaled to size 12.10007pt on input line 4.
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 22.0pt on input line 4.
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 16.0599pt on input line 4.
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 12.10007pt on input line 4.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 22.0pt on input line 4.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 16.0599pt on input line 4.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 12.10007pt on input line 4.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 22.0pt on input line 4.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 16.0599pt on input line 4.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 12.10007pt on input line 4.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 22.0pt on input line 4.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 16.0599pt on input line 4.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 12.10007pt on input line 4.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 16.0599pt on input line 4.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 8.0pt on input line 4.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 6.0pt on input line 4.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/l/n' in size <14.4> not available
+(Font)              Font shape `T1/FiraSans-LF/light/n' tried instead on input line 5.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/light/n' will be
+(Font)              scaled to size 14.4pt on input line 5.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/b/n' in size <7.3> not available
+(Font)              Font shape `T1/FiraSans-LF/bold/n' tried instead on input line 17.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/bold/n' will be
+(Font)              scaled to size 7.3pt on input line 17.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
+(Font)              scaled to size 8.5pt on input line 17.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
+(Font)              scaled to size 6.20496pt on input line 17.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/b/n' in size <8.5> not available
+(Font)              Font shape `T1/FiraSans-LF/bold/n' tried instead on input line 23.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/bold/n' will be
+(Font)              scaled to size 8.5pt on input line 23.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
+(Font)              scaled to size 9.0pt on input line 32.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 9.0pt on input line 42.
+LaTeX Font Info:    Trying to load font information for T1+zi4 on input line 54.
+(C:\Users\lidal\AppData\Local\Programs\MiKTeX\tex/latex/inconsolata\t1zi4.fd
+File: t1zi4.fd 2018/01/14 T1/zi4 (Inconsolata)
+)
+LaTeX Font Info:    Font shape `T1/zi4/m/n' will be
+(Font)              scaled to size 10.0pt on input line 54.
+LaTeX Font Info:    Font shape `T1/zi4/m/n' will be
+(Font)              scaled to size 9.0pt on input line 54.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 5.0pt on input line 55.
+ (book/main/part-2/chapter-test/src/test.f90)) [43
+
+
+{C:/Users/lidal/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/inconsolata/i4-t1-5.enc}]
+\openout2 = `book/appendix/appendix-01/appendix-01.aux'.
+
+ (book/appendix/appendix-01/appendix-01.tex [44
+
+
+
+
+]
+Ap\^endice A.
+(book/appendix/appendix-01/sections/eq-basicas.tex
+
+pdfTeX warning: pdflatex (file ./book/appendix/appendix-01/img/el-portico-plano.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<book/appendix/appendix-01/img/el-portico-plano.pdf, id=1039, 597.4822pt x 845.1575pt>
+File: book/appendix/appendix-01/img/el-portico-plano.pdf Graphic file (type pdf)
+<use book/appendix/appendix-01/img/el-portico-plano.pdf>
+Package pdftex.def Info: book/appendix/appendix-01/img/el-portico-plano.pdf  used on input line 6.
+(pdftex.def)             Requested size: 423.3441pt x 220.35602pt.
+[45
+
+ <./book/appendix/appendix-01/img/el-portico-plano.pdf>]
+
+pdfTeX warning: pdflatex (file ./book/appendix/appendix-01/img/estado-carregamento.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<book/appendix/appendix-01/img/estado-carregamento.pdf, id=1054, 597.55246pt x 845.07724pt>
+File: book/appendix/appendix-01/img/estado-carregamento.pdf Graphic file (type pdf)
+<use book/appendix/appendix-01/img/estado-carregamento.pdf>
+Package pdftex.def Info: book/appendix/appendix-01/img/estado-carregamento.pdf  used on input line 48.
+(pdftex.def)             Requested size: 358.54155pt x 81.97057pt.
+
+
+pdfTeX warning: pdflatex (file ./book/appendix/appendix-01/img/casos-considerados.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<book/appendix/appendix-01/img/casos-considerados.pdf, id=1056, 597.4822pt x 845.1575pt>
+File: book/appendix/appendix-01/img/casos-considerados.pdf Graphic file (type pdf)
+<use book/appendix/appendix-01/img/casos-considerados.pdf>
+Package pdftex.def Info: book/appendix/appendix-01/img/casos-considerados.pdf  used on input line 57.
+(pdftex.def)             Requested size: 341.40657pt x 247.64905pt.
+[46 <./book/appendix/appendix-01/img/estado-carregamento.pdf> <./book/appendix/appendix-01/img/casos-considerados.pdf>] [47]
+
+pdfTeX warning: pdflatex (file ./book/appendix/appendix-01/img/sap-2000.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+<book/appendix/appendix-01/img/sap-2000.pdf, id=1100, 505.89pt x 650.43pt>
+File: book/appendix/appendix-01/img/sap-2000.pdf Graphic file (type pdf)
+<use book/appendix/appendix-01/img/sap-2000.pdf>
+Package pdftex.def Info: book/appendix/appendix-01/img/sap-2000.pdf  used on input line 225.
+(pdftex.def)             Requested size: 320.94632pt x 465.48596pt.
+) (book/appendix/appendix-01/sections/coeficientes-gerais.tex [48] [49 <./book/appendix/appendix-01/img/sap-2000.pdf>]
+
+pdfTeX warning: pdflatex (file ./book/appendix/appendix-01/img/rep-el-eixo-local.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<book/appendix/appendix-01/img/rep-el-eixo-local.pdf, id=1148, 597.4822pt x 845.1575pt>
+File: book/appendix/appendix-01/img/rep-el-eixo-local.pdf Graphic file (type pdf)
+<use book/appendix/appendix-01/img/rep-el-eixo-local.pdf>
+Package pdftex.def Info: book/appendix/appendix-01/img/rep-el-eixo-local.pdf  used on input line 35.
+(pdftex.def)             Requested size: 440.99098pt x 148.06467pt.
+[50 <./book/appendix/appendix-01/img/rep-el-eixo-local.pdf>]) (book/appendix/appendix-01/sections/coeficientes-rigidez.tex) (book/appendix/appendix-01/sections/acoes-engastamento.tex [51]
+
+pdfTeX warning: pdflatex (file ./book/appendix/appendix-01/img/el-acao-carregamento-generico.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<book/appendix/appendix-01/img/el-acao-carregamento-generico.pdf, id=1166, 597.4822pt x 845.1575pt>
+File: book/appendix/appendix-01/img/el-acao-carregamento-generico.pdf Graphic file (type pdf)
+<use book/appendix/appendix-01/img/el-acao-carregamento-generico.pdf>
+Package pdftex.def Info: book/appendix/appendix-01/img/el-acao-carregamento-generico.pdf  used on input line 25.
+(pdftex.def)             Requested size: 375.5493pt x 150.35277pt.
+[52 <./book/appendix/appendix-01/img/el-acao-carregamento-generico.pdf>]) (book/appendix/appendix-01/sections/variacao-temperatura.tex
+
+pdfTeX warning: pdflatex (file ./book/appendix/appendix-01/img/el-acao-temperatura.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<book/appendix/appendix-01/img/el-acao-temperatura.pdf, id=1181, 597.4822pt x 845.1575pt>
+File: book/appendix/appendix-01/img/el-acao-temperatura.pdf Graphic file (type pdf)
+<use book/appendix/appendix-01/img/el-acao-temperatura.pdf>
+Package pdftex.def Info: book/appendix/appendix-01/img/el-acao-temperatura.pdf  used on input line 20.
+(pdftex.def)             Requested size: 369.85927pt x 318.78078pt.
+[53] [54 <./book/appendix/appendix-01/img/el-acao-temperatura.pdf>])) [55]
+\openout2 = `book/back/references.aux'.
+
+ (book/back/references.tex [56
+
+
+
+
+] (c:\Users\lidal\OneDrive\0 - My Files\1 - Mastery\Dissertação\Notes of Framed Structures\Framed Structures\temp\main.bbl)) [57]
+Package minitoc Info: I0009
+(minitoc)             Listing minitoc auxiliary files. 
+(minitoc)             Creating the main.maf file.
+\openout4 = `main.maf'.
+
+ (c:\Users\lidal\OneDrive\0 - My Files\1 - Mastery\Dissertação\Notes of Framed Structures\Framed Structures\temp\main.aux (c:\Users\lidal\OneDrive\0 - My Files\1 - Mastery\Dissertação\Notes of Framed Structures\Framed Structures\temp\book/front/title-page.aux) (c:\Users\lidal\OneDrive\0 - My Files\1 - Mastery\Dissertação\Notes of Framed Structures\Framed Structures\temp\book/front/table-of-contents.aux) (c:\Users\lidal\OneDrive\0 - My Files\1 - Mastery\Dissertação\Notes of Framed Structures\Framed Structures\temp\book/front/list-of-figures.aux) (c:\Users\lidal\OneDrive\0 - My Files\1 - Mastery\Dissertação\Notes of Framed Structures\Framed Structures\temp\book/front/list-of-tables.aux) (c:\Users\lidal\OneDrive\0 - My Files\1 - Mastery\Dissertação\Notes of Framed Structures\Framed Structures\temp\book/front/list-of-symbols.aux) (c:\Users\lidal\OneDrive\0 - My Files\1 - Mastery\Dissertação\Notes of Framed Structures\Framed Structures\temp\book/front/about-authors.aux) (c:\Users\lidal\OneDrive\0 - My Files\1 - Mastery\Dissertação\Notes of Framed Structures\Framed Structures\temp\book/main/part-1/part-1.aux) (c:\Users\lidal\OneDrive\0 - My Files\1 - Mastery\Dissertação\Notes of Framed Structures\Framed Structures\temp\book/main/part-1/chapter-01/chapter-01.aux) (c:\Users\lidal\OneDrive\0 - My Files\1 - Mastery\Dissertação\Notes of Framed Structures\Framed Structures\temp\book/main/part-1/chapter-02/chapter-02.aux) (c:\Users\lidal\OneDrive\0 - My Files\1 - Mastery\Dissertação\Notes of Framed Structures\Framed Structures\temp\book/main/part-1/chapter-03/chapter-03.aux) (c:\Users\lidal\OneDrive\0 - My Files\1 - Mastery\Dissertação\Notes of Framed Structures\Framed Structures\temp\book/main/part-1/chapter-04/chapter-04.aux) (c:\Users\lidal\OneDrive\0 - My Files\1 - Mastery\Dissertação\Notes of Framed Structures\Framed Structures\temp\book/main/part-2/part-2.aux) (c:\Users\lidal\OneDrive\0 - My Files\1 - Mastery\Dissertação\Notes of Framed Structures\Framed Structures\temp\book/main/part-2/chapter-test/chapter-test.aux) (c:\Users\lidal\OneDrive\0 - My Files\1 - Mastery\Dissertação\Notes of Framed Structures\Framed Structures\temp\book/appendix/appendix-01/appendix-01.aux) (c:\Users\lidal\OneDrive\0 - My Files\1 - Mastery\Dissertação\Notes of Framed Structures\Framed Structures\temp\book/back/references.aux))
+ ***********
+LaTeX2e <2025-11-01>
+L3 programming layer <2020/03/25>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 30628 strings out of 467691
+ 602817 string characters out of 5414987
+ 1144256 words of memory out of 5000000
+ 58848 multiletter control sequences out of 15000+600000
+ 1303831 words of font info for 527 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 113i,17n,145p,1290b,1460s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/lidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/fira/FiraSans-Bold.pfb><C:/Users/lidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/fira/FiraSans-Italic.pfb><C:/Users/lidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/fira/FiraSans-Light.pfb><C:/Users/lidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/fira/FiraSans-Regular.pfb><C:/Users/lidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/inconsolata/Inconsolata-zi4r.pfb><C:/Users/lidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/NewTXBMI.pfb><C:/Users/lidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/NewTXMI.pfb><C:/Users/lidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/NewTXMI5.pfb><C:/Users/lidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/NewTXMI7.pfb><C:/Users/lidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qtmr.pfb><C:/Users/lidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txexs.pfb><C:/Users/lidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txmiaX.pfb><C:/Users/lidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.pfb><C:/Users/lidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmb.pfb><C:/Users/lidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmr.pfb><C:/Users/lidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmri.pfb>
+Output written on "c:\Users\lidal\OneDrive\0 - My Files\1 - Mastery\Dissertação\Notes of Framed Structures\Framed Structures\temp\main.pdf" (69 pages, 2556449 bytes).
+PDF statistics:
+ 1289 PDF objects out of 1440 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 385 words of extra memory for PDF output out of 10000 (max. 10000000)
+

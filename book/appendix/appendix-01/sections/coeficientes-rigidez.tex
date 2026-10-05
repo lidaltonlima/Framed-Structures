@@ -1,0 +1,19 @@
+\section{Coeficientes de Rigidez}
+A i-ésima coluna da matriz de rigidez elástica de elemento é obtida impondo-se nas equações~\ref{eq:caso1-Aii} e~\ref{eq:caso2-Aff} a condição $\mathbf{u}_{I0} = \mathbf{u}_{F0}= \mathbf{F}_0 = 0$ e deslocamentos nodais prescritos $\mathbf{u}_{Ii} \,\,\textrm{e}\,\, \mathbf{u}_{Ff}$ . Tem-se
+\begin{align}
+	\mathbf{f}_{Ii} = \mathbf{A}^{-1}_{II} \mathbf{u}_{Ii},\,\,\, \mathbf{f}_{Fi} = -\mathbf{E}_{II} \mathbf{f}_{Ii}, \quad i=1,2,3, & \\
+	\mathbf{f}_{Ff} = \mathbf{A}^{-1}_{FF} \mathbf{u}_{Ff},\,\,\, \mathbf{f}_{Fi} = -\mathbf{E}_{II}^{-1} \mathbf{f}_{Ff}, \quad f=4,5,6.
+\end{align}
+
+A matriz de rigidez elástica de elemento (pórtico plano) é então dada por:
+\begin{equation}
+	\mathbf{K}_e
+	=
+	\begin{bmatrix}
+		\mathbf{f}_{Ii} & \mathbf{f}_{If} \\
+		\mathbf{f}_{Fi} & \mathbf{f}_{Ff}
+	\end{bmatrix},
+	\quad \textrm{com} \quad
+	i=1,2,3, \quad
+	f=4,5,6.
+\end{equation}

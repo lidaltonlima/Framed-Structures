@@ -1,0 +1,60 @@
+\cleardoublepage
+
+\begin{frontmatter}
+	\chapter{Capítulo de Exemplo da segunda parte\footnote{This is chapter footnote}}\label{chap3}
+	\subchapter{Chapter Subtitle}
+
+	\begin{aug}
+		\author[addressrefs={ad1,ad2}]%
+		{\fnm{Firstname}   \snm{Surname}}%
+		%{\fnm{Firstname}   \snm{Surname}\footnote{This is author footnote}}%
+		\author[addressrefs={ad2}]%
+		{\fnm{Firstname} \snm{Surname}}%
+		\address[id=ad1]%
+		{Short Address}%
+		\address[id=ad2]%
+		{Long Address}%
+	\end{aug}
+
+	% \minitoc
+
+	%
+	\begin{chapterpoints}%[Chapter Points]
+		\item The ends of words and sentences are marked by spaces. It doesn't
+		matter how many spaces you type; one is as good as 100.  The end of
+		a line counts as a space.
+
+		\item The ends of words and sentences are marked by spaces. It doesn't
+		matter how many spaces you type; one is as good as 100.  The end of
+		a line counts as a space.
+	\end{chapterpoints}
+
+	\begin{dispquote}
+
+		The ends of words and sentences are marked by spaces. It doesn't
+		matter how many spaces you type; one is as good as 100.  The end of
+		a line counts as a space.
+
+		The ends of words and sentences are marked by spaces. It doesn't
+		matter how many spaces you type; one is as good as 100.  The end of
+		a line counts as a space.
+
+		\source{Name}
+
+	\end{dispquote}
+
+\end{frontmatter}
+
+\section{Section title}\label{sec3.1}
+
+Texto para tirar o erro de citação nula \citep{lopes2024}
+
+\section{Código Fortran - Exemplo}
+
+\begin{lstlisting}
+PROGRAM ola
+    PRINT *, "Olá, Mundo!"
+END PROGRAM ola
+\end{lstlisting}
+
+\lstinputlisting{src/test.f90}

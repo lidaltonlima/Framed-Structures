@@ -1,0 +1,41 @@
+\babel@toc {brazilian}{}\relax 
+\addvspace {1pc}
+\contentsline {part}{\numberline {1}Fundamentação Teórica}{1}{}%
+\contentsline {chapter}{\numberline {1}Introdução}{3}{}%
+\contentsline {section}{\numberline {1.1}Objetivos}{3}{}%
+\contentsline {chapter}{\numberline {2}Análise Matricial de Estruturas}{7}{}%
+\contentsline {section}{\numberline {2.1}Métodos de Análise}{7}{}%
+\contentsline {chapter}{\numberline {3}Método das Forças (ou da Flexibilidade)}{13}{}%
+\contentsline {section}{\numberline {3.1}Equações de Equilíbrio}{13}{}%
+\contentsline {section}{\numberline {3.2}Equações de compatibilidade (de deslocamentos)}{15}{}%
+\contentsline {section}{\numberline {3.3}O Sistema de equações (de compatibilidade)}{16}{}%
+\contentsline {section}{\numberline {3.4}Efeitos de variação de temperatura, deformação inicial, protensão e recalque de apoio}{17}{}%
+\contentsline {subsection}{\numberline {3.4.1}Variação de temperatura}{17}{}%
+\contentsline {subsection}{\numberline {3.4.2}Deformação Inicial}{17}{}%
+\contentsline {subsection}{\numberline {3.4.3}Recalques de Apoio (condições de contorno não-homogêneas)}{17}{}%
+\contentsline {subsection}{\numberline {3.4.4}Sistema de Equações de Compatibilidade}{18}{}%
+\contentsline {section}{\numberline {3.5}Sistemas Estruturais com Elementos de Rigidez Variável}{18}{}%
+\contentsline {section}{\numberline {3.6}Fator de forma ao cisalhamento (\(\chi \))}{19}{}%
+\contentsline {chapter}{\numberline {4}O Método da Rigidez Direta (baseado em Deslocamentos)}{21}{}%
+\contentsline {section}{\numberline {4.1}O princípio do método}{21}{}%
+\contentsline {section}{\numberline {4.2}Rigidezes (conceito)}{21}{}%
+\contentsline {section}{\numberline {4.3}Ações nodais externas}{22}{}%
+\contentsline {section}{\numberline {4.4}Transformação de rotação de eixos}{22}{}%
+\contentsline {section}{\numberline {4.5}Matriz de Rigidez de Elemento}{24}{}%
+\contentsline {section}{\numberline {4.6}Sistema de Equações de Equilíbrio}{27}{}%
+\contentsline {section}{\numberline {4.7}Descontinuidades de deslocamentos entre elementos}{31}{}%
+\contentsline {section}{\numberline {4.8}Condições de Contorno}{37}{}%
+\contentsline {section}{\numberline {4.9}Apoio Inclinado}{38}{}%
+\contentsline {section}{\numberline {4.10}Reações de Apoio}{39}{}%
+\contentsline {section}{\numberline {4.11}Esforços de Extremidade de Elemento}{39}{}%
+\contentsline {part}{\numberline {2}Desenvolvimento Computacional}{41}{}%
+\contentsline {chapter}{\numberline {5}Capítulo de Exemplo da segunda parte\FN@sf@gobble@opt {This is chapter footnote}}{43}{}%
+\contentsline {section}{\numberline {5.1}Section title}{43}{}%
+\contentsline {section}{\numberline {5.2}Código Fortran - Exemplo}{43}{}%
+\let \tocchaptername \tocappendixname %
+\contentsline {chapter}{\numberline {A}Expressões Genéricas para Coeficientes e Ações}{45}{}%
+\contentsline {section}{\numberline {A.1}Equações Básicas}{45}{}%
+\contentsline {section}{\numberline {A.2}Expressões Gerais para os Coeficientes de $\mathbf {A_{II}}$ e $\mathbf {A}_{FF}$}{50}{}%
+\contentsline {section}{\numberline {A.3}Coeficientes de Rigidez}{51}{}%
+\contentsline {section}{\numberline {A.4}Ações de Engastamento}{51}{}%
+\contentsline {section}{\numberline {A.5}Variação de temperatura}{53}{}%

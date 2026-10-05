@@ -1,0 +1,168 @@
+{
+  // ==========================================================================
+  // General
+  // ==========================================================================
+  // Editor *******************************************************************
+  "editor.formatOnSave": true,
+  "files.eol": "\n",
+  "editor.fontFamily": "Fira Code Retina",
+  "editor.fontLigatures": true,
+  "editor.glyphMargin": false,
+  "editor.wordWrap": "on",
+
+  // Fonts ********************************************************************
+  "editor.fontSize": 18,
+  "debug.console.fontSize": 16,
+  "terminal.integrated.fontSize": 16,
+
+  // Interface ****************************************************************
+  "workbench.colorTheme": "OM Theme (Default Dracula Italic)",
+  "workbench.iconTheme": "material-icon-theme",
+  "explorer.compactFolders": false,
+
+  // ==========================================================================
+  // Languages and files types
+  // ==========================================================================
+  // Python *******************************************************************
+  "python.analysis.typeCheckingMode": "off",
+  // "python.defaultInterpreterPath": "python",
+
+  // Pylint *******************************************************************
+  "pylint.enabled": false,
+
+  // Json *********************************************************************
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+
+  // LaTeX ********************************************************************
+  "[latex]": {
+    "editor.defaultFormatter": "James-Yu.latex-workshop"
+  },
+
+  // LaTeX Workshop ***********************************************************
+  "latex-workshop.latex.outDir": "./temp",
+  "latex-workshop.latex.auxDir": "./temp",
+  "latex-workshop.formatting.latex": "latexindent",
+  "latex-workshop.formatting.latexindent.args": [
+    "-m",
+    "-c",
+    "%OUTDIR%/",
+    "%TMPFILE%",
+    "-l=%DIR%/latexindent.yaml"
+  ],
+  "latex-workshop.latex.autoBuild.run": "onSave",
+  "latex-workshop.latex.tools": [
+    {
+      "name": "pdflatex (minted)",
+      "command": "pdflatex",
+      "args": [
+        "-synctex=1",
+        "-interaction=nonstopmode",
+        "-file-line-error",
+        "-shell-escape",
+        "-output-directory=%OUTDIR%",
+        "%DOC%"
+      ],
+      "env": {
+        "TEXMF_OUTPUT_DIRECTORY": "%OUTDIR%"
+      }
+    },
+    {
+      "name": "bibtex",
+      "command": "bibtex",
+      "args": ["-include-directory=%OUTDIR%", "%OUTDIR%/%DOCFILE%"]
+    }
+  ],
+  "latex-workshop.latex.recipes": [
+    {
+      "name": "pdflatex + bibtex",
+      "tools": [
+        "pdflatex (minted)",
+        "bibtex",
+        "pdflatex (minted)",
+        "pdflatex (minted)"
+      ]
+    }
+  ],
+  "latex-workshop.latex.recipe.default": "first",
+  "latex-workshop.latex.autoClean.run": "never",
+  "latex-workshop.latex.clean.subfolder.enabled": true,
+  // "latex-workshop.latex.clean.fileTypes": [
+  //   "*.aux",
+  //   "*.bbl",
+  //   "*.bcf",
+  //   "*.blg",
+  //   "*.idx",
+  //   "*.ind",
+  //   "*.lof",
+  //   "*.lot",
+  //   "*.out",
+  //   "*.run.xml",
+  //   "*.synctex.gz",
+  //   "*.toc",
+  //   "*.fls",
+  //   "*.fdb_latexmk",
+  //   "*.log",
+  //   "*.xdv",
+  //   "*.nav",
+  //   "*.snm",
+  //   "*.vrb"
+  // ],
+
+  // ==========================================================================
+  // Extensions
+  // ==========================================================================
+  // Code Runner **************************************************************
+  "code-runner.saveFileBeforeRun": true,
+  "code-runner.runInTerminal": true,
+  "code-runner.ignoreSelection": true,
+  "code-runner.executorMap": {
+    "python": "clear ; python -u"
+  },
+  // Code Spell Checker *******************************************************
+  "cSpell.language": "en, pt-BR",
+
+  // Copilot ******************************************************************
+  "github.copilot.enable": {
+    "*": true,
+    "python": false,
+    "latex": false
+  },
+  "cSpell.words": [
+    "'etodo",
+    "'ibrio",
+    "backgroundcolor",
+    "basicstyle",
+    "biapoiada",
+    "biengastada",
+    "biengastado",
+    "Bmatrix",
+    "breaklines",
+    "centroidais",
+    "centroidal",
+    "ções",
+    "Equa",
+    "equil",
+    "estabelicidas",
+    "Extremização",
+    "hiperestaticidade",
+    "hipostaticidades",
+    "Iguazú",
+    "indicial",
+    "inputencoding",
+    "keywordstyle",
+    "Lidalton",
+    "M",
+    "ndeel",
+    "ndofn",
+    "nnoel",
+    "numberstyle",
+    "Ortogonalização",
+    "redundates",
+    "showstringspaces",
+    "stringstyle",
+    "subsestruturas",
+    "torcional"
+  ]
+}
